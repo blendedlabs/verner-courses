@@ -15,5 +15,12 @@
         "name": "Yura's first course",
         "imageUrl": "yura-course/cover.png",
         "courseUrl": "yura-course/course.json"
+    },
+
+    {
+        "name": "Best Practices in Community Management",
+        "imageUrl": "community-course/panel.jpg",
+        "courseUrl": "community-course/course.json"
     }
+
 ]
