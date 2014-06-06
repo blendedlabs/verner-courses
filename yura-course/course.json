@@ -4,7 +4,7 @@
         { "text": "Hello Yura!" },
         { "text": "This is our first course" },
         { "text": "A background can be changed like this", "backgroundColor": "#3e313c" },
-        { "text": "And here\n is how to do\n multiline" },
+        { "text": "And here is\n how to do\n multiline" },
         { "text": "You can even use a picture with this text!", "imageUrl": "imagesample.jpg" },
         { "text": "That's all for now! See github and create something awesome!" }
     ]
