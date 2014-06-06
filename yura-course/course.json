@@ -2,7 +2,7 @@
     "name": "Yura's course",
     "slides": [
         { "text": "Hello Yura!" },
-        { "text": "Welcome to our first course!" },
+        { "text": "Welcome to our first course! Yo!" },
         { "text": "A background can be changed like this", "backgroundColor": "#3e313c" },
         { "text": "And here is\n how to do\n multiline" },
         { "text": "You can even use a picture with this text!", "imageUrl": "imagesample.jpg" },
