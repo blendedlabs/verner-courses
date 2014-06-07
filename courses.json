@@ -21,12 +21,5 @@
         "name": "Best Practices in Community Management",
         "imageUrl": "community-course/panel.jpg",
         "courseUrl": "community-course/course.json"
-    },
-
-    {
-        "name": "Invalid course",
-        "imageUrl": "community-course/panel.jpg",
-        "courseUrl": "invalid.json"
     }
-
 ]
