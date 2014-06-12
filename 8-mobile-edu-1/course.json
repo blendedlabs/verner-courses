@@ -50,6 +50,7 @@
             {"text": "Ok", "correct": true, "hint": "Ok is not good enough for us. How can we improve?"}, 
             {"text": "Can be better", "correct": true, "hint": "How can we improve?"}
         ]},
+        { "text": "Create your own mobile course\n\n Join Verner's early author program", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
         { "imageUrl": "0-completed.png", "backgroundColor": "#2b2b6d", "buttons": [
             {"text": "Contact author", "action": "http://facebook.com/lifshits"},
             {"text": "Back to Course List", "action": "close"}
