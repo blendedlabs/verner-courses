@@ -1,9 +1,23 @@
 [
     {
-        "name": "TEACHER TOUCH: How to Teach on Mobile",
+        "name": "TEACH BY TOUCH, L1 : The Current State of Mobile Learning",
         "author": "Yury Lifshits",
-        "imageUrl": "8-mobile-edu/0-cover-small.png",
-        "courseUrl": "8-mobile-edu/course.json"
+        "imageUrl": "8-mobile-edu-1/0-cover-small.png",
+        "courseUrl": "8-mobile-edu-1/course.json"
+    },
+
+    {
+        "name": "TEACH BY TOUCH, L2 : The Anatomy of Mobile Learning",
+        "author": "Yury Lifshits",
+        "imageUrl": "8-mobile-edu-2/0-cover-small.png",
+        "courseUrl": "8-mobile-edu-2/course.json"
+    },
+
+    {
+        "name": "TEACH BY TOUCH, L3 : Interaction Mechanics",
+        "author": "Yury Lifshits",
+        "imageUrl": "8-mobile-edu-3/0-cover-small.png",
+        "courseUrl": "8-mobile-edu-3/course.json"
     },
 
     {

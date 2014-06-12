@@ -1,0 +1,63 @@
+{
+    "name": "Best Practices in Hiring Online Work",
+    "slides": [
+        { "text": "TEACH BY TOUCH\n \n LEVEL 1 \n The Anatomy \n of Mobile Learning \n\n by Yury Lifshits", "backgroundColor": "#232333", "textColor": "#eeeeee"  },
+        { "text": "LEVELS\n\n 1. Anatomy of Mobile Learning \n 2. Key Components \n 3. Best Practices", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "text": "LEVEL 1.\n Anatomy of Mobile Learning", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "text": "Trends \n\n 1+ billion smartphones\n \n 3 billion smartphones \n in 3-4 years", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "text": "Learning time \n\n Commute\n Waiting \n Couch \n Bed \n In the field", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "backgroundColor": "#888888", "backgroundColor": "#f5f5f5", "text": "\n \n Do you believe that people will spend more time learning on mobile/tablet than on laptop/desktop?", "answers": [
+            {"text": "More mobile learning", "correct": true, "hint": "We think this too"}, 
+            {"text": "More desktop/laptop learning", "correct": true, "hint": "Interesting, what's your argument?"}
+        ]},
+        { "text": "Holy Grail \n\n Create\n an effective \n daily \n learning habit", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "text": "Key Components\n\n Objectives \n Discovery and triggers \n Course structure \n Atoms \n Social \n Achievements", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "text": "Case Studies \n\n Duolingo \n QuizUp \n Lumosity \n Udemy \n Treehouse", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "text": "Duolingo", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "imageUrl": "duolingo-1.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "duolingo-2.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "duolingo-3.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "duolingo-4.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "duolingo-5.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "text": "QuizUp", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "imageUrl": "quizup-1.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "quizup-2.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "quizup-3.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "quizup-4.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "quizup-5.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "text": "Lumosity", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "imageUrl": "lumosity-1.jpg", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "lumosity-2.jpg", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "lumosity-3.jpg", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "lumosity-4.jpg", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "lumosity-5.jpg", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "text": "Udemy", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "imageUrl": "udemy-1.jpg", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "udemy-2.jpg", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "udemy-3.jpg", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "udemy-4.jpg", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "udemy-5.jpg", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "udemy-6.jpg", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "udemy-7.jpg", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "text": "Coursera", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "imageUrl": "coursera-1.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "coursera-2.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "coursera-3.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "coursera-4.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "coursera-5.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "0-question.png", "backgroundColor": "#f3f3f3", "text": "\n \n How do you like this course?", "answers": [
+            {"text": "Awesome!", "correct": true, "hint": "We are so happy! Perhaps, take another course or tell a friend )"}, 
+            {"text": "Ok", "correct": true, "hint": "Ok is not good enough for us. How can we improve?"}, 
+            {"text": "Can be better", "correct": true, "hint": "How can we improve?"}
+        ]},
+        { "imageUrl": "0-completed.png", "backgroundColor": "#2b2b6d", "buttons": [
+            {"text": "Contact author", "action": "http://facebook.com/lifshits"},
+            {"text": "Back to Course List", "action": "close"}
+        ]}
+    ]
+}
+
+
+
+
+

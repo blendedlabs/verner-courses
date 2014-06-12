@@ -1,7 +1,7 @@
 {
     "name": "Best Practices in Hiring Online Work",
     "slides": [
-        { "text": "TEACHER\n TOUCH\n \n How to\n Teach \n on Mobile\n\n\n by Yury Lifshits", "backgroundColor": "#232333", "textColor": "#eeeeee"  },
+        { "text": "TEACH BY TOUCH\n \n LEVEL 1 \n Interaction Mechanics \n\n by Yury Lifshits", "backgroundColor": "#232333", "textColor": "#eeeeee"  },
         { "text": "LEVELS\n\n 1. Anatomy of Mobile Learning \n 2. Key Components \n 3. Best Practices", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
         { "text": "LEVEL 1.\n Anatomy of Mobile Learning", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
         { "text": "Trends \n\n 1+ billion smartphones\n \n 3 billion smartphones \n in 3-4 years", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
@@ -45,10 +45,10 @@
         { "imageUrl": "coursera-3.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
         { "imageUrl": "coursera-4.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
         { "imageUrl": "coursera-5.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
-        { "imageUrl": "0-question.png", "backgroundColor": "#f3f3f3", "text": "\n \n How much does an oDesk job posting cost?", "answers": [
-            {"text": "It's free!", "correct": true, "hint": "My impressed. Total true!"}, 
-            {"text": "Some free, some paid", "hint": "What a miss! Another guess?"}, 
-            {"text": "10$  per job posting", "hint": "Epic disaster! Try again?"}
+        { "imageUrl": "0-question.png", "backgroundColor": "#f3f3f3", "text": "\n \n How do you like this course?", "answers": [
+            {"text": "Awesome!", "correct": true, "hint": "We are so happy! Perhaps, take another course or tell a friend )"}, 
+            {"text": "Ok", "correct": true, "hint": "Ok is not good enough for us. How can we improve?"}, 
+            {"text": "Can be better", "correct": true, "hint": "How can we improve?"}
         ]},
         { "imageUrl": "0-completed.png", "backgroundColor": "#2b2b6d", "buttons": [
             {"text": "Contact author", "action": "http://facebook.com/lifshits"},
