@@ -39,7 +39,12 @@
         { "imageUrl": "udemy-5.jpg", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
         { "imageUrl": "udemy-6.jpg", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
         { "imageUrl": "udemy-7.jpg", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
-        { "text": "Treehouse", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "text": "Coursera", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "imageUrl": "coursera-1.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "coursera-2.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "coursera-3.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "coursera-4.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "coursera-5.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
         { "imageUrl": "0-question.png", "backgroundColor": "#f3f3f3", "text": "\n \n How much does an oDesk job posting cost?", "answers": [
             {"text": "It's free!", "correct": true, "hint": "My impressed. Total true!"}, 
             {"text": "Some free, some paid", "hint": "What a miss! Another guess?"}, 
