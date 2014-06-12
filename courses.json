@@ -28,45 +28,9 @@
     },
 
     {
-        "name": "50 Powerful Statistics About Tech Mega Trends",
-        "author": "Vala Afshar",
-        "imageUrl": "5-megatrends/i-0.jpg",
-        "courseUrl": "5-megatrends/course.json"
-    },
-
-    {
         "name": "Crap Content Marketing",
         "author": "Velocity",
         "imageUrl": "6-crap/i-0.jpg",
         "courseUrl": "6-crap/course.json"
-    },
-
-    {
-        "name": "What Would Steve Do?",
-        "author": "Steve, Scott & Gary",
-        "imageUrl": "7-what-would-steve-do/i-0.jpg",
-        "courseUrl": "7-what-would-steve-do/course.json"
-    },
-
-
-    {
-        "name": "Best Practices in Hiring Online Work",
-        "author": "oDesk",
-        "imageUrl": "1-odesk/0-cover-small.png",
-        "courseUrl": "1-odesk/course.json"
-    },
-
-    {
-        "name": "Salesforce CRM: Refresher Course",
-        "author": "Salesforce",
-        "imageUrl": "2-salesforce/0-cover-small.png",
-        "courseUrl": "2-salesforce/course.json"
-    },
-
-    {
-        "name": "Innovation Support from Canada Government",
-        "author": "Boast Capital",
-        "imageUrl": "3-boast-capital/0-cover-small.png",
-        "courseUrl": "3-boast-capital/course.json"
     }
 ]
