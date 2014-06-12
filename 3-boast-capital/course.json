@@ -1,0 +1,25 @@
+{
+    "name": "Innovation Funding from Canada Government",
+    "slides": [
+        { "imageUrl": "0-cover.png", "backgroundColor": "#232333" },
+        { "imageUrl": "1.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "2.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "3.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "4.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "5.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "6.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "7.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "8.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "9.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "10.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "0-question.png", "backgroundColor": "#f3f3f3", "text": "\n \n Does Canada Government give money to every innovator?", "answers": [
+            {"text": "Yes, easy cash for everyone", "hint": "Epic disaster! Try again?"}, 
+            {"text": "Sometimes, but it's hard to get", "hint": "What a miss! Another guess?"}, 
+            {"text": "Yes, an easy tax credit", "correct": true, "hint": "My impressed. Total true!"}
+        ]},
+        { "imageUrl": "0-completed.png", "backgroundColor": "#2b2b6d", "buttons": [
+            {"text": "Open Boast Capital website", "action": "http://boastcapital.com/"},
+            {"text": "Back to Course List", "action": "close"}
+        ]}
+    ]
+}

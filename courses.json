@@ -1,25 +1,58 @@
 [
     {
-        "name": "40 Tools in 20 Minutes: Hacking your marketing career",
-        "imageUrl":  "40-tools-in-20-minutes/i-cover.jpeg",
-        "courseUrl": "40-tools-in-20-minutes/course.json"
+        "name": "TEACHER TOUCH: How to Teach on Mobile",
+        "author": "Yury Lifshits",
+        "imageUrl": "8-mobile-edu/0-cover-small.png",
+        "courseUrl": "8-mobile-edu/course.json"
     },
 
     {
-        "name": "Pixar's 22 rules to Phenomenal Storytelling",
-        "imageUrl":  "pixars-20-rules-storytelling/01-cover.jpg",
-        "courseUrl": "pixars-20-rules-storytelling/course.json"
+        "name": "26 Time Management Hacks I Wish I'd Known at 20",
+        "author": "Etienne Garbugli",
+        "imageUrl": "4-time-mgmt-hacks/i-0.jpg",
+        "courseUrl": "4-time-mgmt-hacks/course.json"
     },
 
     {
-        "name": "Yura's first course",
-        "imageUrl": "yura-course/cover.png",
-        "courseUrl": "yura-course/course.json"
+        "name": "50 Powerful Statistics About Tech Mega Trends",
+        "author": "Vala Afshar",
+        "imageUrl": "5-megatrends/i-0.jpg",
+        "courseUrl": "5-megatrends/course.json"
     },
 
     {
-        "name": "Best Practices in Community Management",
-        "imageUrl": "community-course/panel.jpg",
-        "courseUrl": "community-course/course.json"
+        "name": "Crap Content Marketing",
+        "author": "Velocity",
+        "imageUrl": "6-crap/i-0.jpg",
+        "courseUrl": "6-crap/course.json"
+    },
+
+    {
+        "name": "What Would Steve Do?",
+        "author": "Steve, Scott & Gary",
+        "imageUrl": "7-what-would-steve-do/i-0.jpg",
+        "courseUrl": "7-what-would-steve-do/course.json"
+    },
+
+
+    {
+        "name": "Best Practices in Hiring Online Work",
+        "author": "oDesk",
+        "imageUrl": "1-odesk/0-cover-small.png",
+        "courseUrl": "1-odesk/course.json"
+    },
+
+    {
+        "name": "Salesforce CRM: Refresher Course",
+        "author": "Salesforce",
+        "imageUrl": "2-salesforce/0-cover-small.png",
+        "courseUrl": "2-salesforce/course.json"
+    },
+
+    {
+        "name": "Innovation Support from Canada Government",
+        "author": "Boast Capital",
+        "imageUrl": "3-boast-capital/0-cover-small.png",
+        "courseUrl": "3-boast-capital/course.json"
     }
 ]

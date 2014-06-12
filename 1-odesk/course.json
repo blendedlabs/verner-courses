@@ -1,0 +1,30 @@
+{
+    "name": "Best Practices in Hiring Online Work",
+    "slides": [
+        { "imageUrl": "0-cover.png", "backgroundColor": "#232333"  },
+        { "imageUrl": "1.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "2.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "3.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "4.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "5.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "6.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "7.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "0-question.png", "backgroundColor": "#f3f3f3", "text": "\n \n How much does an oDesk job posting cost?", "answers": [
+            {"text": "It's free!", "correct": true, "hint": "My impressed. Total true!"}, 
+            {"text": "Some free, some paid", "hint": "What a miss! Another guess?"}, 
+            {"text": "10$  per job posting", "hint": "Epic disaster! Try again?"}
+        ]},
+        { "imageUrl": "0-offer.png", "buttons": [
+            {"text": "Email me coupon", "action": "http://odesk.com/"}
+        ]},
+        { "imageUrl": "0-completed.png", "backgroundColor": "#2b2b6d", "buttons": [
+            {"text": "Open Odesk website", "action": "http://odesk.com/"},
+            {"text": "Back to Course List", "action": "close"}
+        ]}
+    ]
+}
+
+
+
+
+

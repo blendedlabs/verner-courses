@@ -1,0 +1,22 @@
+{
+    "name": "Enterprise Apps: Best Practices",
+    "slides": [
+        { "imageUrl": "0-cover.png", "backgroundColor": "#232333"  },
+        { "imageUrl": "1.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "2.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "3.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "4.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "5.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "6.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "7.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "0-question.png", "backgroundColor": "#f3f3f3", "text": "\n \n Is Salesforce1\n a mobile or a web platform?", "answers": [
+            {"text": "Web", "hint": "Epic disaster! Try again?"}, 
+            {"text": "Mobile", "hint": "What a miss! Another guess?"}, 
+            {"text": "Both", "correct": true, "hint": "My impressed. Total true!"}
+        ]},
+        { "imageUrl": "0-completed.png", "backgroundColor": "#2b2b6d", "buttons": [
+            {"text": "Get Salesforce1 White Paper", "action": "https://www.salesforce.com/form/offer/platform-idc-wp.jsp?d=70130000000ljWV&nc=70130000000lXSm"},
+            {"text": "Back to Course List", "action": "close"}
+        ]}
+    ]
+}
