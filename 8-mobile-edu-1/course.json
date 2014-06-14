@@ -1,8 +1,8 @@
 {
     "name": "TEACH BY TOUCH #1",
     "slides": [
-        { "text": "TEACH BY TOUCH\n \n §1 \n The Current State \n of Mobile Learning \n\n by Yury Lifshits", "backgroundColor": "#232333", "textColor": "#eeeeee"  },
-        { "text": "TEACH BY TOUCH Series\n\n §1 The Current State of Mobile Learning \n\n §2 The Anatomy of Mobile Learning \n\n §3 Interaction Mechanics", "backgroundColor": "#232333", "textColor": "#eeeeee"   },
+        { "text": "TEACH BY TOUCH\n \n #1 \n The Current State \n of Mobile Learning \n\n by Yury Lifshits", "backgroundColor": "#232333", "textColor": "#eeeeee"  },
+        { "text": "TEACH BY TOUCH Series\n\n #1 The Current State of Mobile Learning \n\n #2 The Anatomy of Mobile Learning \n\n #3 Interaction Mechanics", "backgroundColor": "#232333", "textColor": "#eeeeee"   },
         { "text": "#1 The Current State of Mobile Learning \n\n #1.1 Trends and numbers \n\n #1.2 Key Case Studies", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
         { "text": "Trends \n\n 1+ billion smartphones\n \n \n 3 billion smartphones in 3-4 years", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
         { "text": "Learning time \n\n Commute\n Waiting \n Couch \n Bed \n In the field", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
@@ -12,7 +12,7 @@
         ]},
         { "text": "Holy Grail \n\n Create\n an effective \n daily \n learning habit", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
         { "text": "Key Components\n\n Objectives \n Discovery and triggers \n Course structure \n Atoms \n Social \n Achievements", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
-        { "text": "Case Studies \n\n Duolingo \n QuizUp \n Lumosity \n Udemy \n Treehouse", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "text": "Case Studies \n\n Duolingo \n QuizUp \n Lumosity \n Udemy \n Coursera \n TED", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
         { "text": "Duolingo", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
         { "imageUrl": "duolingo-1.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
         { "imageUrl": "duolingo-2.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
@@ -46,6 +46,14 @@
         { "imageUrl": "coursera-4.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
         { "imageUrl": "coursera-5.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
         { "imageUrl": "0-question.png", "backgroundColor": "#f3f3f3", "text": "\n \n How do you like this course?", "answers": [
+        { "text": "TED", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "imageUrl": "ted-1.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "ted-2.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "ted-3.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "ted-4.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "ted-5.png", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "ted-6.jpg", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
+        { "imageUrl": "ted-7.jpg", "backgroundColor": "#f5f5f5", "textColor": "#222222"  },
             {"text": "Awesome!", "correct": true, "hint": "We are so happy! Perhaps, take another course or tell a friend )"}, 
             {"text": "Ok", "correct": true, "hint": "Ok is not good enough for us. How can we improve?"}, 
             {"text": "Can be better", "correct": true, "hint": "How can we improve?"}
