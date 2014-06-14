@@ -93,9 +93,39 @@
             ]
         },
         {
-            "text": "TYPES",
+            "text": "TYPES OF MOBILE LEARNING",
             "backgroundColor": "#999999",
             "textColor": "#fefefe"
+        },
+        {
+            "text": "LEARNER TYPES \n\n\n Pre-school \n K12 (kindergarden to high school) \n Higher education \n Professional development \n Personal interests",
+            "backgroundColor": "#f3f3f3",
+            "textColor": "#333333"
+        },
+        {
+            "text": "PRE-SCHOOL \n\n\n Drawing \n Literacy \n Arithmetics ",
+            "backgroundColor": "#f3f3f3",
+            "textColor": "#333333"
+        },
+        {
+            "text": "K12\n\n\n School subjects",
+            "backgroundColor": "#f3f3f3",
+            "textColor": "#333333"
+        },
+        {
+            "text": "HIGHER EDUCATION\n\n\n College subjects",
+            "backgroundColor": "#f3f3f3",
+            "textColor": "#333333"
+        },
+        {
+            "text": "PROFESSIONAL DEVELOPMENT\n\n\n Professional Skills \n Tools \n Case studies \n Trends and reports ",
+            "backgroundColor": "#f3f3f3",
+            "textColor": "#333333"
+        },
+        {
+            "text": "PERSONAL INTERESTS\n\n\n Languages \n Crafts and hobbies \n Cooking \n Health and fitness \n Driving rules \n etc. ",
+            "backgroundColor": "#f3f3f3",
+            "textColor": "#333333"
         },
         {
             "text": "EXAMPLES",
