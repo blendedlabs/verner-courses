@@ -1,7 +1,7 @@
 {
     "name": "TEACH BY TOUCH §3",
     "slides": [
-        { "heading": "Teach By Touch", "text": "§3\nInteraction Mechanics\n\nby Yury Lifshits", "backgroundColor": "#232333", "textColor": "#eeeeee"  },
+        { "heading": "Teach By Touch", "text": "§3\nInteraction Mechanics\n\nby Yury Lifshits", "backgroundColor": "#232333", "textColor": "#eeeeee", "topImageUrl": "sample-header.jpg", "bottomImageUrl": "sample-header.jpg"  },
         { "text": "TEACH BY TOUCH Series\n\n §1 The Current State of Mobile Learning \n\n §2 The Anatomy of Mobile Learning \n\n §3 Interaction Mechanics", "backgroundColor": "#232333", "textColor": "#eeeeee"   },
         { "imageUrl": "0-question.png", "backgroundColor": "#f3f3f3", "text": "\n \n How do you like this course?", "answers": [
             {"text": "Awesome!", "correct": true, "hint": "We are so happy! Perhaps, take another course or tell a friend )"}, 
