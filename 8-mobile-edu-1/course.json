@@ -42,22 +42,37 @@
             "textColor": "#fefefe"
         },
         {
-            "text": "NUMBER OF DEVICES \n\n 1B+ smartphones\n \n \n 200M+ tablets",
+            "text": "NUMBER OF DEVICES \n\n\n\n 1.5B+ smartphones\n\n 200M+ tablets",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
         },
         {
-            "text": "TIME SPENT \n\n ~60 minutes per day",
+            "text": "TIME SPENT \n\n\n 60-80 minutes per day \n\n Mobile time > Online time",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
         },
         {
-            "text": "LEARNING CONTEXT \n\n Commute\n Waiting \n Couch \n Bed \n In the field",
+            "text": "LEARNING CONTEXT \n\n Commute\n\n Waiting \n\n Couch \n\n Bed \n\n In the field",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
         },
         {
-            "text": "INSTALL NUMBERS\n ON ANDROID\n\n\n Flipboard 100M+ \n Kindle 50M+  \n Duolingo 10M+ \n 2048 Game 10M+ \n TED 5M+",
+            "text": "INSTALL NUMBERS\n ON ANDROID\n\n\n Flipboard 100M+ \n Kindle 50M+  \n Duolingo 10M+ \n 2048 Game 10M+ \n TED 5M+ \n QuizUp 5M+",
+            "backgroundColor": "#55acee",
+            "textColor": "#fefefe"
+        },
+        {
+            "text": "DAILY USE\n IS CRITICAL\n\n\n Most of the top apps are build around everyday habits",
+            "backgroundColor": "#55acee",
+            "textColor": "#fefefe"
+        },
+        {
+            "text": "APPS WIN\n OVER THE WEB \n\n\n App time is ~90%\n\n Mobile web is only ~10%",
+            "backgroundColor": "#55acee",
+            "textColor": "#fefefe"
+        },
+        {
+            "text": "LESSONS\n\n\n 2.5 billion smartphones in 2017 \n\n There will be at least 3-5 education apps with 100M+ installs",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
         },
