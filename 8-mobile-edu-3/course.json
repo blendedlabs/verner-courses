@@ -1,6 +1,10 @@
 {
     "name": "TEACH BY TOUCH §3",
     "slides": [
+        { "heading": "Teach by Touch. Chapter 1", "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.", "answers": [
+            {"text": "I understand", "correct": true},
+            {"text": "Come again?"}
+        ]},
         { "text": "TEACH BY TOUCH\n \n §3\n Interaction\n Mechanics \n\n by Yury Lifshits", "backgroundColor": "#232333", "textColor": "#eeeeee"  },
         { "text": "TEACH BY TOUCH Series\n\n §1 The Current State of Mobile Learning \n\n §2 The Anatomy of Mobile Learning \n\n §3 Interaction Mechanics", "backgroundColor": "#232333", "textColor": "#eeeeee"   },
         { "imageUrl": "0-question.png", "backgroundColor": "#f3f3f3", "text": "\n \n How do you like this course?", "answers": [
