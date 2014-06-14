@@ -22,7 +22,7 @@
             "textColor": "#40677f"
         },
         {
-            "text": "EXAMPLES \n\n\n What are the key mobile learning apps? \n\n What can we learn from them?",
+            "text": "CASE STUDIES \n\n\n What are the key mobile learning apps? \n\n What can we learn from them?",
             "backgroundColor": "#d6fcff",
             "textColor": "#40677f"
         },
@@ -72,7 +72,7 @@
             "textColor": "#333333"
         },
         {
-            "text": "PROJECTIONS FOR 2017\n\n\n ~2.5B smartphones \n\n ~ 700M tablets",
+            "text": "PROJECTIONS\n FOR 2017\n\n\n ~ 2.5B smartphones \n\n ~ 700M tablets",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
@@ -98,7 +98,7 @@
             "textColor": "#fefefe"
         },
         {
-            "text": "LEARNER TYPES \n\n\n Pre-school \n\n K12 (kindergarden and school) \n\n Higher education \n\n Professional development \n\n Personal interests",
+            "text": "LEARNER TYPES \n\n\n Pre-school \n\n K12 (kindergarden to high school) \n\n Higher education \n\n Professional development \n\n Personal interests",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
@@ -128,12 +128,12 @@
             "textColor": "#333333"
         },
         {
-            "text": "EXAMPLES",
+            "text": "CASE STUDIES",
             "backgroundColor": "#999999",
             "textColor": "#fefefe"
         },
         {
-            "text": "Case Studies \n\n Duolingo \n QuizUp \n Lumosity \n Udemy \n Coursera \n TED",
+            "text": "Featured apps \n\n Duolingo \n QuizUp \n Lumosity \n Udemy \n Coursera \n TED",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
         },
@@ -297,11 +297,6 @@
             "backgroundColor": "#f5f5f5",
             "textColor": "#222222"
         },
-        {
-            "imageUrl": "0-question.png",
-            "backgroundColor": "#f3f3f3",
-            "text": "\n \n How do you like this course?",
-            "answers": [
                 {
                     "text": "TED",
                     "backgroundColor": "#55acee",
@@ -342,22 +337,55 @@
                     "backgroundColor": "#f5f5f5",
                     "textColor": "#222222"
                 },
-                {
-                    "text": "Awesome!",
-                    "correct": true,
-                    "hint": "We are so happy! Perhaps, take another course or tell a friend )"
-                },
-                {
-                    "text": "Ok",
-                    "correct": true,
-                    "hint": "Ok is not good enough for us. How can we improve?"
-                },
-                {
-                    "text": "Can be better",
-                    "correct": true,
-                    "hint": "How can we improve?"
-                }
-            ]
+        {
+            "text": "Quizlet",
+            "backgroundColor": "#55acee",
+            "textColor": "#fefefe"
+        },
+        {
+            "imageUrl": "quizlet-1.png",
+            "backgroundColor": "#f5f5f5",
+            "textColor": "#222222"
+        },
+        {
+            "imageUrl": "quizlet-2.jpg",
+            "backgroundColor": "#f5f5f5",
+            "textColor": "#222222"
+        },
+        {
+            "imageUrl": "quizlet-3.png",
+            "backgroundColor": "#f5f5f5",
+            "textColor": "#222222"
+        },
+        {
+            "imageUrl": "quizlet-4.jpg",
+            "backgroundColor": "#f5f5f5",
+            "textColor": "#222222"
+        },
+        {
+            "imageUrl": "quizlet-5.png",
+            "backgroundColor": "#f5f5f5",
+            "textColor": "#222222"
+        },
+        {
+            "imageUrl": "quizlet-6.png",
+            "backgroundColor": "#f5f5f5",
+            "textColor": "#222222"
+        },
+        {
+            "imageUrl": "quizlet-7.jpg",
+            "backgroundColor": "#f5f5f5",
+            "textColor": "#222222"
+        },
+        {
+            "imageUrl": "quizlet-8.jpg",
+            "backgroundColor": "#f5f5f5",
+            "textColor": "#222222"
+        },
+        {
+            "imageUrl": "quizlet-9.jpg",
+            "backgroundColor": "#f5f5f5",
+            "textColor": "#222222"
         },
         {
             "text": "PREDICTIONS",
@@ -405,14 +433,31 @@
             "textColor": "#333333"
         },
         {
-            "text": "Holy Grail \n\n Create\n an effective \n daily \n learning habit",
-            "backgroundColor": "#f3f3f3",
-            "textColor": "#333333"
-        },
-        {
             "text": "Create your own mobile course\n\n Join Verner's early author program",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
+        },
+        {
+            "imageUrl": "0-question.png",
+            "backgroundColor": "#f3f3f3",
+            "text": "\n \n How do you like this course?",
+            "answers": [
+                {
+                    "text": "Awesome!",
+                    "correct": true,
+                    "hint": "We are so happy! Perhaps, take another course or tell a friend )"
+                },
+                {
+                    "text": "Ok",
+                    "correct": true,
+                    "hint": "Ok is not good enough for us. How can we improve?"
+                },
+                {
+                    "text": "Can be better",
+                    "correct": true,
+                    "hint": "How can we improve?"
+                }
+            ]
         },
         {
             "imageUrl": "0-completed.png",
