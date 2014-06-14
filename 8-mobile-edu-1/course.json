@@ -93,11 +93,6 @@
             ]
         },
         {
-            "text": "Holy Grail \n\n Create\n an effective \n daily \n learning habit",
-            "backgroundColor": "#55acee",
-            "textColor": "#fefefe"
-        },
-        {
             "text": "TYPES",
             "backgroundColor": "#999999",
             "textColor": "#fefefe"
@@ -343,6 +338,11 @@
             "text": "IMPLICATIONS",
             "backgroundColor": "#999999",
             "textColor": "#fefefe"
+        },
+        {
+            "text": "Holy Grail \n\n Create\n an effective \n daily \n learning habit",
+            "backgroundColor": "#f3f3f3",
+            "textColor": "#333333"
         },
         {
             "text": "Create your own mobile course\n\n Join Verner's early author program",
