@@ -98,12 +98,12 @@
             "textColor": "#fefefe"
         },
         {
-            "text": "LEARNER TYPES \n\n\n Pre-school \n K12 (kindergarden to high school) \n Higher education \n Professional development \n Personal interests",
+            "text": "LEARNER TYPES \n\n\n Pre-school \n\n K12 (kindergarden and school) \n\n Higher education \n\n Professional development \n\n Personal interests",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
         {
-            "text": "PRE-SCHOOL \n\n\n Drawing \n Literacy \n Arithmetics ",
+            "text": "PRE-SCHOOL \n\n\n Drawing \n Literacy \n Arithmetics \n Cartoons \n Games ",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
