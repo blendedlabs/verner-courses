@@ -42,12 +42,22 @@
             "textColor": "#fefefe"
         },
         {
-            "text": "Trends \n\n 1+ billion smartphones\n \n \n 3 billion smartphones in 3-4 years",
+            "text": "NUMBER OF DEVICES \n\n 1B+ smartphones\n \n \n 200M+ tablets",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
         },
         {
-            "text": "Learning time \n\n Commute\n Waiting \n Couch \n Bed \n In the field",
+            "text": "TIME SPENT \n\n ~60 minutes per day",
+            "backgroundColor": "#55acee",
+            "textColor": "#fefefe"
+        },
+        {
+            "text": "LEARNING CONTEXT \n\n Commute\n Waiting \n Couch \n Bed \n In the field",
+            "backgroundColor": "#55acee",
+            "textColor": "#fefefe"
+        },
+        {
+            "text": "INSTALL NUMBERS\n ON ANDROID\n\n\n Flipboard 100M+ \n Kindle 50M+  \n Duolingo 10M+ \n 2048 Game 10M+ \n TED 5M+",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
         },
