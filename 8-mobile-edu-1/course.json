@@ -12,7 +12,7 @@
             "textColor": "#fefefe"
         },
         {
-            "text": "SIZE \n \n \n How big is mobile learning? \n \n How big can it become?",
+            "text": "SCALE \n \n \n How big is mobile learning? \n \n How big can it become?",
             "backgroundColor": "#d6fcff",
             "textColor": "#40677f"
         },
@@ -35,6 +35,11 @@
             "text": "IMPLICATIONS \n\n\n What are the implications for learners, teachers, publishers?",
             "backgroundColor": "#d6fcff",
             "textColor": "#40677f"
+        },        
+        {
+            "text": "SCALE",
+            "backgroundColor": "#999999",
+            "textColor": "#fefefe"
         },
         {
             "text": "Trends \n\n 1+ billion smartphones\n \n \n 3 billion smartphones in 3-4 years",
@@ -68,8 +73,13 @@
             "textColor": "#fefefe"
         },
         {
-            "text": "Key Components\n\n Objectives \n Discovery and triggers \n Course structure \n Atoms \n Social \n Achievements",
-            "backgroundColor": "#55acee",
+            "text": "TYPES",
+            "backgroundColor": "#999999",
+            "textColor": "#fefefe"
+        },
+        {
+            "text": "EXAMPLES",
+            "backgroundColor": "#999999",
             "textColor": "#fefefe"
         },
         {
@@ -298,6 +308,16 @@
                     "hint": "How can we improve?"
                 }
             ]
+        },
+        {
+            "text": "PREDICTIONS",
+            "backgroundColor": "#999999",
+            "textColor": "#fefefe"
+        },
+        {
+            "text": "IMPLICATIONS",
+            "backgroundColor": "#999999",
+            "textColor": "#fefefe"
         },
         {
             "text": "Create your own mobile course\n\n Join Verner's early author program",

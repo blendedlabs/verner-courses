@@ -4,6 +4,11 @@
         { "text": "TEACH BY TOUCH\n \n #2 \n The Anatomy \n of Mobile Learning \n\n by Yury Lifshits", "backgroundColor": "#232333", "textColor": "#eeeeee"  },
         { "text": "TEACH BY TOUCH Series\n\n #1 The Current State of Mobile Learning \n\n #2 The Anatomy of Mobile Learning \n\n #3 Interaction Mechanics", "backgroundColor": "#232333", "textColor": "#eeeeee"   },
         { "text": "KEY ELEMENTS \n\n 1. Learning objectives \n\n 2. Discovery & triggers \n\n 3. Course structure \n\n 4. Atoms of learning \n\n 5. Communications and social \n\n 6. Achievements", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        {
+            "text": "Key Components\n\n Objectives \n Discovery and triggers \n Course structure \n Atoms \n Social \n Achievements",
+            "backgroundColor": "#55acee",
+            "textColor": "#fefefe"
+        },
         { "imageUrl": "0-question.png", "backgroundColor": "#f3f3f3", "text": "\n \n How do you like this course?", "answers": [
             {"text": "Awesome!", "correct": true, "hint": "We are so happy! Perhaps, take another course or tell a friend )"}, 
             {"text": "Ok", "correct": true, "hint": "Ok is not good enough for us. How can we improve?"}, 
