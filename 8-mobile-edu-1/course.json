@@ -2,12 +2,12 @@
     "name": "TEACH BY TOUCH #1",
     "slides": [
         { "text": "TEACH BY TOUCH\n \n #1 \n The Current State \n of Mobile Learning \n\n by Yury Lifshits", "backgroundColor": "#49be34", "textColor": "#eeeeee"  },
-        { "text": "5\n\n QUESTIONS\n\n TO ANSWER", "backgroundColor": "#999999", "textColor": "#fefefe"  },
-        { "text": "How big is mobile learning? \n\n How big can it become?", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
-        { "text": "What are the key types and segments of mobile learning?", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
-        { "text": "What are the key mobile learning apps? \n\n What can we learn from them?", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
-        { "text": "What to expect in the next 2-3 years?", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
-        { "text": "What are the implications for learners, teachers, publishers?", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "text": "5\n\n QUESTIONS\n\n TO ANSWER\n\n  ", "backgroundColor": "#999999", "textColor": "#fefefe"  },
+        { "text": "SIZE \n\n\n How big is mobile learning? \n\n How big can it become?", "backgroundColor": "#d6fcff", "textColor": "##40677f"  },
+        { "text": "TYPES \n\n\n What are the key types and segments of mobile learning?", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "text": "EXAMPLES \n\n\n What are the key mobile learning apps? \n\n What can we learn from them?", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "text": "PREDICTIONS \n\n\n What to expect in the next 2-3 years?", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "text": "IMPLICATIONS \n\n\n What are the implications for learners, teachers, publishers?", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
         { "text": "Trends \n\n 1+ billion smartphones\n \n \n 3 billion smartphones in 3-4 years", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
         { "text": "Learning time \n\n Commute\n Waiting \n Couch \n Bed \n In the field", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
         { "backgroundColor": "#888888", "backgroundColor": "#f5f5f5", "text": "\n \n Do you believe that people will spend more time learning on mobile/tablet than on laptop/desktop?", "answers": [
