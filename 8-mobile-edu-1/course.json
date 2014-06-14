@@ -1,7 +1,7 @@
 {
     "name": "TEACH BY TOUCH #1",
     "slides": [
-        { "text": "TEACH BY TOUCH\n \n #1 \n The Current State \n of Mobile Learning \n\n by Yury Lifshits", "backgroundColor": "#232333", "textColor": "#eeeeee"  },
+        { "text": "TEACH BY TOUCH\n \n #1 \n The Current State \n of Mobile Learning \n\n by Yury Lifshits", "backgroundColor": "#49be34", "textColor": "#eeeeee"  },
         { "text": "TEACH BY TOUCH Series\n\n #1 The Current State of Mobile Learning \n\n #2 The Anatomy of Mobile Learning \n\n #3 Interaction Mechanics", "backgroundColor": "#232333", "textColor": "#eeeeee"   },
         { "text": "#1 The Current State of Mobile Learning \n\n #1.1 Trends and numbers \n\n #1.2 Key Case Studies", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
         { "text": "Trends \n\n 1+ billion smartphones\n \n \n 3 billion smartphones in 3-4 years", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
