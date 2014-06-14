@@ -3,7 +3,7 @@
     "slides": [
         { "heading": "Teach By Touch", "text": "§3\nInteraction Mechanics\n\nby Yury Lifshits", "backgroundColor": "#232333", "textColor": "#eeeeee", "topImageUrl": "sample-header.jpg", "bottomImageUrl": "sample-bottom.jpg"  },
         { "heading": "Teach By Touch Series", "text": "§1 The Current State of Mobile Learning\n\n§2 The Anatomy of Mobile Learning\n\n§3 Interaction Mechanics", "backgroundColor": "#232333", "textColor": "#eeeeee"   },
-        { "imageUrl": "0-question.png", "backgroundColor": "#f3f3f3", "text": "\n \n How do you like this course?", "answers": [
+        { "topImageUrl": "0-question-small.png", "backgroundColor": "#f3f3f3", "text": "How do you like this course?", "answers": [
             {"text": "Awesome!", "correct": true, "hint": "We are so happy! Perhaps, take another course or tell a friend )"}, 
             {"text": "Ok", "correct": true, "hint": "Ok is not good enough for us. How can we improve?"}, 
             {"text": "Can be better", "correct": true, "hint": "How can we improve?"}
