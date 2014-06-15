@@ -160,6 +160,7 @@
         {
             "heading":"DUOLINGO\nLanguage learning",
             "text": "Started in 2011 \n38M$ funding \n10M+ Android installs",
+            "bottomImageUrl": "duolingo.png",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
@@ -187,6 +188,7 @@
         {
             "heading":"TED\nInspiring video talks",
             "text": "Started in 1984 \nNon-profit \n5M+ Android installs",
+            "bottomImageUrl": "ted.png",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
@@ -213,6 +215,7 @@
         },
         {
             "heading":"UDEMY\nSkills and hobbies",
+            "bottomImageUrl": "udemy.png",
             "text": "Started in 2010 \n 48M$ funding \n100K+ Android installs",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
@@ -241,6 +244,7 @@
         {
             "heading":"COURSERA\nAcademic courses",
             "text": "Started in \n 85M$ funding \n100K+ Android installs",
+            "bottomImageUrl": "coursera.png",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
@@ -268,6 +272,7 @@
         {
             "heading":"QUIZUP\nAddictive quiz game",
             "text": "Started in 2010 \n27M$ funding \n5M+ Android installs",
+            "bottomImageUrl": "quizup.png",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
@@ -295,6 +300,7 @@
         {
             "heading":"QUIZLET\nFlashcards learning",
             "text": "Started in 2007\nSelf-funded \n500K+ Android installs",
+            "bottomImageUrl": "quizlet.png",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
@@ -322,6 +328,7 @@
         {
             "heading":"LUMOSITY\nBrain fitness",
             "text": "Started in 2005\n67M$ funding \n\n ~50M users across the web and iOS",
+            "bottomImageUrl": "lumosity.png",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
