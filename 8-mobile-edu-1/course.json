@@ -154,14 +154,14 @@
         {
             "heading":"FEATURED APPS",
             "text": "Duolingo \nTED \nUdemy \nCoursera \nQuizUp \nQuizlet \nLumosity",
-            "backgroundColor": "#55acee",
-            "textColor": "#fefefe"
+            "backgroundColor": "#f3f3f3",
+            "textColor": "#333333"
         },
         {
             "heading":"DUOLINGO\nLanguage learning",
             "text": "Started in 2011 \n38M$ funding \n10M+ Android installs",
-            "backgroundColor": "#55acee",
-            "textColor": "#fefefe"
+            "backgroundColor": "#f3f3f3",
+            "textColor": "#333333"
         },
         {
             "imageUrl": "duolingo-2.png",
@@ -179,16 +179,16 @@
             "textColor": "#222222"
         },
         {
-            "heading":"NOTABLE FEATURES",
+            "heading":"Notable features",
             "text": "Memorization quizzes\n\nXP points and levels\n\nScaling: language pairs, advanced vocabulary",
-            "backgroundColor": "#55acee",
-            "textColor": "#fefefe"
+            "backgroundColor": "#f3f3f3",
+            "textColor": "#333333"
         },
         {
             "heading":"TED\nInspiring video talks",
             "text": "Started in 1984 \nNon-profit \n5M+ Android installs",
-            "backgroundColor": "#55acee",
-            "textColor": "#fefefe"
+            "backgroundColor": "#f3f3f3",
+            "textColor": "#333333"
         },
         {
                     "imageUrl": "ted-1.png",
@@ -208,14 +208,14 @@
         {
             "heading":"NOTABLE FEATURES",
             "text": "Internationalization, captions and audio\n\nDiscovery mechanisms: new, featured, most popular, and by category",
-            "backgroundColor": "#55acee",
-            "textColor": "#fefefe"
+            "backgroundColor": "#f3f3f3",
+            "textColor": "#333333"
         },
         {
             "heading":"UDEMY\nSkills and hobbies",
             "text": "Started in 2010 \n 48M$ funding \n100K+ Android installs",
-            "backgroundColor": "#55acee",
-            "textColor": "#fefefe"
+            "backgroundColor": "#f3f3f3",
+            "textColor": "#333333"
         },
         {
             "imageUrl": "udemy-1.jpg",
@@ -235,14 +235,14 @@
         {
             "heading":"NOTABLE FEATURES",
             "text": "Video-centric learning\n\nOffline mode\n\nActive course selling",
-            "backgroundColor": "#55acee",
-            "textColor": "#fefefe"
+            "backgroundColor": "#f3f3f3",
+            "textColor": "#333333"
         },
         {
             "heading":"COURSERA\nAcademic courses",
             "text": "Started in \n 85M$ funding \n100K+ Android installs",
-            "backgroundColor": "#55acee",
-            "textColor": "#fefefe"
+            "backgroundColor": "#f3f3f3",
+            "textColor": "#333333"
         },
         {
             "imageUrl": "coursera-1.png",
@@ -262,14 +262,14 @@
         {
             "heading":"NOTABLE FEATURES",
             "text": "Long commitments\n\nAssignments\n\nAcademic content",
-            "backgroundColor": "#55acee",
-            "textColor": "#fefefe"
+            "backgroundColor": "#f3f3f3",
+            "textColor": "#333333"
         },
         {
             "heading":"QUIZUP\nAddictive quiz game",
             "text": "Started in 2010 \n27M$ funding \n5M+ Android installs",
-            "backgroundColor": "#55acee",
-            "textColor": "#fefefe"
+            "backgroundColor": "#f3f3f3",
+            "textColor": "#333333"
         },
         {
             "imageUrl": "quizup-1.png",
@@ -289,14 +289,14 @@
         {
             "heading":"NOTABLE FEATURES",
             "text": "Competitive spirit\n\nUser communications \n\nScaling by topics",
-            "backgroundColor": "#55acee",
-            "textColor": "#fefefe"
+            "backgroundColor": "#f3f3f3",
+            "textColor": "#333333"
         },
         {
             "heading":"QUIZLET\nFlashcards learning",
             "text": "Started in 2007\nSelf-funded \n500K+ Android installs",
-            "backgroundColor": "#55acee",
-            "textColor": "#fefefe"
+            "backgroundColor": "#f3f3f3",
+            "textColor": "#333333"
         },
         {
             "imageUrl": "quizlet-6.png",
@@ -316,14 +316,14 @@
         {
             "heading":"NOTABLE FEATURES",
             "text": "Flashcards-centric learning\n\nCommunity-created sets\n\nTraining modes: find pairs, type the answer",
-            "backgroundColor": "#55acee",
-            "textColor": "#fefefe"
+            "backgroundColor": "#f3f3f3",
+            "textColor": "#333333"
         },
         {
             "heading":"LUMOSITY\nBrain fitness",
             "text": "Started in 2005\n67M$ funding \n\n ~50M users across the web and iOS",
-            "backgroundColor": "#55acee",
-            "textColor": "#fefefe"
+            "backgroundColor": "#f3f3f3",
+            "textColor": "#333333"
         },
         {
             "imageUrl": "lumosity-2.jpg",
@@ -343,8 +343,8 @@
         {
             "heading":"NOTABLE FEATURES",
             "text": "Game-based training\n\nIncentives for daily use\n\nBenchmarking",
-            "backgroundColor": "#55acee",
-            "textColor": "#fefefe"
+            "backgroundColor": "#f3f3f3",
+            "textColor": "#333333"
         },
         {
             "heading":"PREDICTIONS",
