@@ -159,7 +159,7 @@
         },
         {
             "heading":"DUOLINGO",
-            "text": "Started in \nfunding \nAndroid installs",
+            "text": "Started in 2011 \n38M$ funding \n10M+ Android installs",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
         },
@@ -186,7 +186,7 @@
         },
         {
             "heading":"TED",
-            "text": "Started in \nfunding \nAndroid installs",
+            "text": "Started in 1984 \nNon-profit \n5M+ Android installs",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
         },
@@ -213,7 +213,7 @@
         },
         {
             "heading":"UDEMY",
-            "text": "Started in \nfunding \nAndroid installs",
+            "text": "Started in 2010 \n 48M$ funding \n100K+ Android installs",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
         },
@@ -240,7 +240,7 @@
         },
         {
             "heading":"COURSERA",
-            "text": "Started in \nfunding \nAndroid installs",
+            "text": "Started in \n 85M$ funding \n100K+ Android installs",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
         },
@@ -267,7 +267,7 @@
         },
         {
             "heading":"QUIZUP",
-            "text": "Started in \nfunding \nAndroid installs",
+            "text": "Started in 2010 \n27M$ funding \n5M+ Android installs",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
         },
@@ -294,7 +294,7 @@
         },
         {
             "heading":"QUIZLET",
-            "text": "Started in \nself-funded \nAndroid installs",
+            "text": "Started in 2007\nSelf-funded \n500K+ Android installs",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
         },
@@ -315,13 +315,13 @@
         },
         {
             "heading":"NOTABLE FEATURES",
-            "text": "flashcards-centric learning\n\nCommunity-created sets\n\nTraining modes: find pairs, type the answer",
+            "text": "Flashcards-centric learning\n\nCommunity-created sets\n\nTraining modes: find pairs, type the answer",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
         },
         {
             "heading":"LUMOSITY",
-            "text": "Started in \nfunding \nAndroid installs",
+            "text": "Started in 2005\n67M$ funding \n\n ~50M users across the web and iOS",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
         },
