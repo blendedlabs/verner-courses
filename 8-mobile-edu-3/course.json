@@ -8,25 +8,25 @@
             "textColor": "#eeeeee"
         },
         {
-            "heading":"6 QUESTIONS\nTO ANSWER",
+            "heading":"5 QUESTIONS\nTO ANSWER",
             "backgroundColor": "#49be34",
             "textColor": "#eeeeee"
         },
         {
-            "heading":"ENGAGING CONTENT",
-            "text": "Give information and keep attention",
+            "heading":"CONTENT",
+            "text": "How to make mobile content fun?",
             "backgroundColor": "#d6fcff",
             "textColor": "#40677f"
         },
         {
             "heading":"MEMORIZATION",
-            "text": "How to make people remember what they want",
+            "text": "How to make people remember?",
             "backgroundColor": "#d6fcff",
             "textColor": "#40677f"
         },
         {
             "heading":"SKILL PRACTICE",
-            "text": "Use your skills and get feedback",
+            "text": "How to implement skill practice and give feedback?",
             "backgroundColor": "#d6fcff",
             "textColor": "#40677f"
         },
