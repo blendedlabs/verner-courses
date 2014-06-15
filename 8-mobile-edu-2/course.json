@@ -1,19 +1,84 @@
 {
     "name": "TEACH BY TOUCH #2",
     "slides": [
-        { "text": "TEACH BY TOUCH\n \n #2 \n The Anatomy \n of Mobile Learning \n\n by Yury Lifshits", "backgroundColor": "#232333", "textColor": "#eeeeee"  },
-        { "text": "TEACH BY TOUCH Series\n\n #1 The Current State of Mobile Learning \n\n #2 The Anatomy of Mobile Learning \n\n #3 Interaction Mechanics", "backgroundColor": "#232333", "textColor": "#eeeeee"   },
-        { "text": "KEY ELEMENTS \n\n 1. Learning objectives \n\n 2. Discovery & triggers \n\n 3. Course structure \n\n 4. Atoms of learning \n\n 5. Communications and social \n\n 6. Achievements", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "text": "TEACH BY TOUCH\n \n #2 \n  \n\n by Yury Lifshits", "backgroundColor": "#232333", "textColor": "#eeeeee"  },
         {
-            "text": "Key Components\n\n Objectives \n Discovery and triggers \n Course structure \n Atoms \n Social \n Achievements",
-            "backgroundColor": "#55acee",
-            "textColor": "#fefefe"
+            "heading":"TEACH BY TOUCH",
+            "text": "#2 \nThe Anatomy \nof Mobile Learning \n\n\nby Yury Lifshits",
+            "backgroundColor": "#4d394b",
+            "textColor": "#eeeeee"
         },
-        { "imageUrl": "0-question.png", "backgroundColor": "#f3f3f3", "text": "\n \n How do you like this course?", "answers": [
-            {"text": "Awesome!", "correct": true, "hint": "We are so happy! Perhaps, take another course or tell a friend )"}, 
-            {"text": "Ok", "correct": true, "hint": "Ok is not good enough for us. How can we improve?"}, 
-            {"text": "Can be better", "correct": true, "hint": "How can we improve?"}
-        ]},
+        {
+            "heading":"6 QUESTIONS\nTO ANSWER",
+            "backgroundColor": "#49be34",
+            "textColor": "#eeeeee"
+        },
+        {
+            "heading":"OBJECTIVES",
+            "text": "Why do people learn things on mobile?",
+            "backgroundColor": "#d6fcff",
+            "textColor": "#40677f"
+        },
+        {
+            "heading":"TRIGGERS",
+            "text": "What motivates people to open an app and start learning?",
+            "backgroundColor": "#d6fcff",
+            "textColor": "#40677f"
+        },
+        {
+            "heading":"COURSE STRUCTURE",
+            "text": "How to keep attention of mobile learners?",
+            "backgroundColor": "#d6fcff",
+            "textColor": "#40677f"
+        },
+        {
+            "heading":"ATOMS OF LEARNING",
+            "text": "What are the key building blocks of mobile learning experiences?",
+            "backgroundColor": "#d6fcff",
+            "textColor": "#40677f"
+        },
+        {
+            "heading":"COMMUNICATIONS",
+            "text": "How to connect people around learning?",
+            "backgroundColor": "#d6fcff",
+            "textColor": "#40677f"
+        },        
+        {
+            "heading":"REWARDS",
+            "text": "How to celebrate and encourage successful learning?",
+            "backgroundColor": "#d6fcff",
+            "textColor": "#40677f"
+        },        
+        {
+            "heading":"OBJECTIVES",
+            "backgroundColor": "#49be34",
+            "textColor": "#eeeeee"
+        },
+        {
+            "heading":"TRIGGERS",
+            "backgroundColor": "#49be34",
+            "textColor": "#eeeeee"
+        },
+        {
+            "heading":"COURSE STRUCTURE",
+            "backgroundColor": "#49be34",
+            "textColor": "#eeeeee"
+        },
+        {
+            "heading":"ATOMS OF LEARNING",
+            "backgroundColor": "#49be34",
+            "textColor": "#eeeeee"
+        },
+        {
+            "heading":"COMMUNICATIONS",
+            "backgroundColor": "#49be34",
+            "textColor": "#eeeeee"
+        },
+        {
+            "heading":"REWARDS",
+            "backgroundColor": "#49be34",
+            "textColor": "#eeeeee"
+        },
         { "imageUrl": "0-completed.png", "backgroundColor": "#2b2b6d", "buttons": [
             {"text": "Contact author", "action": "http://facebook.com/lifshits"},
             {"text": "Back to Course List", "action": "close"}
