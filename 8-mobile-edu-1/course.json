@@ -3,7 +3,7 @@
     "slides": [
         {
             "imageUrl": "tt1-cover.png",
-            "backgroundColor": "#ffffff",
+            "backgroundColor": "#ffffff"
         },
         {
             "heading":"5 QUESTIONS\nTO ANSWER",
@@ -42,7 +42,7 @@
         },        
         {
             "imageUrl": "tt1-section1.png",
-            "backgroundColor": "#ffffff",
+            "backgroundColor": "#ffffff"
         },
         {
             "heading":"AREAS OF LEARNING",
@@ -82,7 +82,7 @@
         },
         {
             "imageUrl": "tt1-section2.png",
-            "backgroundColor": "#ffffff",
+            "backgroundColor": "#ffffff"
         },
         {
             "heading":"NUMBER OF DEVICES",
@@ -144,7 +144,7 @@
         },
         {
             "imageUrl": "tt1-section3.png",
-            "backgroundColor": "#ffffff",
+            "backgroundColor": "#ffffff"
         },
         {
             "heading":"FEATURED APPS",
@@ -350,7 +350,7 @@
         },
         {
             "imageUrl": "tt1-section4.png",
-            "backgroundColor": "#ffffff",
+            "backgroundColor": "#ffffff"
         },
         {
             "heading":"MOBILE-FIRST",
@@ -378,7 +378,7 @@
         },
         {
             "imageUrl": "tt1-section5.png",
-            "backgroundColor": "#ffffff",
+            "backgroundColor": "#ffffff"
         },
         {
             "heading":"LEARNERS",
