@@ -2,10 +2,8 @@
     "name": "TEACH BY TOUCH #1",
     "slides": [
         {
-            "heading":"TEACH BY TOUCH",
-            "text": "#1 \nThe Current State \nof Mobile Learning \n\n\nby Yury Lifshits",
-            "backgroundColor": "#4d394b",
-            "textColor": "#eeeeee"
+            "imageUrl": "tt1-cover.png",
+            "backgroundColor": "#ffffff",
         },
         {
             "heading":"5 QUESTIONS\nTO ANSWER",
@@ -13,14 +11,14 @@
             "textColor": "#eeeeee"
         },
         {
-            "heading":"SCALE",
-            "text": "How big is mobile learning? \n\nHow big can it become?",
+            "heading":"NEEDS",
+            "text": "What things do people want to learn on mobile?",
             "backgroundColor": "#d6fcff",
             "textColor": "#40677f"
         },
         {
-            "heading":"TYPES",
-            "text": "What are the key types and segments of mobile learning?",
+            "heading":"SCALE",
+            "text": "How big is mobile learning? \n\nHow big can it become?",
             "backgroundColor": "#d6fcff",
             "textColor": "#40677f"
         },
@@ -43,9 +41,48 @@
             "textColor": "#40677f"
         },        
         {
-            "heading":"SCALE",
-            "backgroundColor": "#49be34",
-            "textColor": "#eeeeee"
+            "imageUrl": "tt1-section1.png",
+            "backgroundColor": "#ffffff",
+        },
+        {
+            "heading":"AREAS OF LEARNING",
+            "text": "Pre-school \n\nK12 (kindergarden to high school) \n\nHigher education \n\nProfessional development \n\nPersonal interests",
+            "backgroundColor": "#f3f3f3",
+            "textColor": "#333333"
+        },
+        {
+            "heading":"PRE-SCHOOL",
+            "text": "Drawing \nLiteracy \nArithmetics \nCartoons \nGames ",
+            "backgroundColor": "#f3f3f3",
+            "textColor": "#333333"
+        },
+        {
+            "heading":"K12",
+            "text": "Math \nLiterature \nHistory \netc.",
+            "backgroundColor": "#f3f3f3",
+            "textColor": "#333333"
+        },
+        {
+            "heading":"HIGHER EDUCATION",
+            "text": "Technology\nScience \nHumanities \nArt \nLaw \nMedicine \nBusiness \netc.",
+            "backgroundColor": "#f3f3f3",
+            "textColor": "#333333"
+        },
+        {
+            "heading":"PROFESSIONAL DEVELOPMENT",
+            "text": "Skills \nTools \nCase studies \nTrends and reports ",
+            "backgroundColor": "#f3f3f3",
+            "textColor": "#333333"
+        },
+        {
+            "heading":"PERSONAL INTERESTS",
+            "text": "Languages \nCrafts and hobbies \nCooking \nHealth and fitness \nDriving rules \netc. ",
+            "backgroundColor": "#f3f3f3",
+            "textColor": "#333333"
+        },
+        {
+            "imageUrl": "tt1-section2.png",
+            "backgroundColor": "#ffffff",
         },
         {
             "heading":"NUMBER OF DEVICES",
@@ -106,50 +143,8 @@
             ]
         },
         {
-            "heading":"TYPES OF\nMOBILE LEARNING",
-            "backgroundColor": "#49be34",
-            "textColor": "#eeeeee"
-        },
-        {
-            "heading":"AREAS OF LEARNING",
-            "text": "Pre-school \n\nK12 (kindergarden to high school) \n\nHigher education \n\nProfessional development \n\nPersonal interests",
-            "backgroundColor": "#f3f3f3",
-            "textColor": "#333333"
-        },
-        {
-            "heading":"PRE-SCHOOL",
-            "text": "Drawing \nLiteracy \nArithmetics \nCartoons \nGames ",
-            "backgroundColor": "#f3f3f3",
-            "textColor": "#333333"
-        },
-        {
-            "heading":"K12",
-            "text": "Math \nLiterature \nHistory \netc.",
-            "backgroundColor": "#f3f3f3",
-            "textColor": "#333333"
-        },
-        {
-            "heading":"HIGHER EDUCATION",
-            "text": "Technology\nScience \nHumanities \nArt \nLaw \nMedicine \nBusiness \netc.",
-            "backgroundColor": "#f3f3f3",
-            "textColor": "#333333"
-        },
-        {
-            "heading":"PROFESSIONAL DEVELOPMENT",
-            "text": "Skills \nTools \nCase studies \nTrends and reports ",
-            "backgroundColor": "#f3f3f3",
-            "textColor": "#333333"
-        },
-        {
-            "heading":"PERSONAL INTERESTS",
-            "text": "Languages \nCrafts and hobbies \nCooking \nHealth and fitness \nDriving rules \netc. ",
-            "backgroundColor": "#f3f3f3",
-            "textColor": "#333333"
-        },
-        {
-            "heading":"CASE STUDIES",
-            "backgroundColor": "#49be34",
-            "textColor": "#eeeeee"
+            "imageUrl": "tt1-section3.png",
+            "backgroundColor": "#ffffff",
         },
         {
             "heading":"FEATURED APPS",
@@ -354,9 +349,8 @@
             "textColor": "#333333"
         },
         {
-            "heading":"PREDICTIONS",
-            "backgroundColor": "#49be34",
-            "textColor": "#eeeeee"
+            "imageUrl": "tt1-section4.png",
+            "backgroundColor": "#ffffff",
         },
         {
             "heading":"MOBILE-FIRST",
@@ -383,9 +377,8 @@
             "textColor": "#333333"
         },
         {
-            "heading":"IMPLICATIONS",
-            "backgroundColor": "#49be34",
-            "textColor": "#eeeeee"
+            "imageUrl": "tt1-section5.png",
+            "backgroundColor": "#ffffff",
         },
         {
             "heading":"LEARNERS",
