@@ -3,19 +3,19 @@
     "slides": [
         {
             "heading":"TEACH BY TOUCH",
-            "text": "#1 \n The Current State \n of Mobile Learning \n\n by Yury Lifshits",
+            "text": "#1 \nThe Current State \nof Mobile Learning \n\n\nby Yury Lifshits",
             "backgroundColor": "#4d394b",
             "textColor": "#eeeeee"
         },
         {
-            "heading":"5 \n\n QUESTIONS \n\n TO ANSWER",
-            "text": "\n\n  ",
+            "heading":"5 \n\nQUESTIONS \n\nTO ANSWER",
+            "text": "\n\n",
             "backgroundColor": "#49be34",
             "textColor": "#eeeeee"
         },
         {
             "heading":"SCALE",
-            "text": "How big is mobile learning? \n \n How big can it become?",
+            "text": "How big is mobile learning? \n\nHow big can it become?",
             "backgroundColor": "#d6fcff",
             "textColor": "#40677f"
         },
@@ -27,7 +27,7 @@
         },
         {
             "heading":"CASE STUDIES",
-            "text": "What are the key mobile learning apps? \n\n What can we learn from them?",
+            "text": "What are the key mobile learning apps? \n\nWhat can we learn from them?",
             "backgroundColor": "#d6fcff",
             "textColor": "#40677f"
         },
@@ -50,49 +50,49 @@
         },
         {
             "heading":"NUMBER OF DEVICES",
-            "text": "1.5B+ smartphones\n\n 200M+ tablets",
+            "text": "1.5B+ smartphones\n\n200M+ tablets",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
         {
             "heading":"TIME SPENT",
-            "text": "60-80 minutes per day \n\n Mobile time > Online time",
+            "text": "60-80 minutes per day \n\nMobile time > Online time",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
         {
             "heading":"LEARNING CONTEXT",
-            "text": "Commute\n\n Waiting \n\n Couch \n\n Bed \n\n In the field",
+            "text": "Commute\n\nWaiting \n\nCouch \n\nBed \n\nIn the field",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
         {
-            "heading":"INSTALL NUMBERS\n ON ANDROID",
-            "text": "Flipboard 100M+ \n Kindle 50M+  \n Duolingo 10M+ \n 2048 Game 10M+ \n TED 5M+ \n QuizUp 5M+",
+            "heading":"INSTALL NUMBERS\nON ANDROID",
+            "text": "Flipboard 100M+ \nKindle 50M+  \nDuolingo 10M+ \n2048 Game 10M+ \nTED 5M+ \nQuizUp 5M+",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
         {
-            "heading":"DAILY USE\n IS CRITICAL",
+            "heading":"DAILY USE\nIS CRITICAL",
             "text": "Most of the top apps are build around everyday habits",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
         {
-            "heading":"APPS WIN\n OVER THE WEB",
-            "text": "App time is ~90%\n\n Mobile web is only ~10%",
+            "heading":"APPS WIN\nOVER THE WEB",
+            "text": "App time is ~90%\n\nMobile web is only ~10%",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
         {
-            "heading":"PROJECTIONS\n FOR 2017",
-            "text": "~ 2.5B smartphones \n\n ~ 700M tablets",
+            "heading":"PROJECTIONS\nFOR 2017",
+            "text": "~ 2.5B smartphones \n\n~ 700M tablets",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
         {
             "backgroundColor": "#f5f5f5",
-            "text": "\n \n Do you believe that people will spend more time learning on mobile/tablet than on laptop/desktop?",
+            "text": "\n\nDo you believe that people will spend more time learning on mobile/tablet than on laptop/desktop?",
             "answers": [
                 {
                     "text": "More mobile learning",
@@ -107,43 +107,43 @@
             ]
         },
         {
-            "heading":"TYPES OF\n MOBILE LEARNING",
+            "heading":"TYPES OF\nMOBILE LEARNING",
             "backgroundColor": "#49be34",
             "textColor": "#eeeeee"
         },
         {
             "heading":"AREAS OF LEARNING",
-            "text": " \n\n\n Pre-school \n\n K12 (kindergarden to high school) \n\n Higher education \n\n Professional development \n\n Personal interests",
+            "text": " \n\n\nPre-school \n\nK12 (kindergarden to high school) \n\nHigher education \n\nProfessional development \n\nPersonal interests",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
         {
             "heading":"PRE-SCHOOL",
-            "text": "Drawing \n Literacy \n Arithmetics \n Cartoons \n Games ",
+            "text": "Drawing \nLiteracy \nArithmetics \nCartoons \nGames ",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
         {
             "heading":"K12",
-            "text": "Math \n Literature \n History \n etc.",
+            "text": "Math \nLiterature \nHistory \netc.",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
         {
             "heading":"HIGHER EDUCATION",
-            "text": "Technology\n Science \n Humanities \n Art \n Law \n Medicine \n Business \n etc.",
+            "text": "Technology\nScience \nHumanities \nArt \nLaw \nMedicine \nBusiness \netc.",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
         {
             "heading":"PROFESSIONAL DEVELOPMENT",
-            "text": "Skills \n Tools \n Case studies \n Trends and reports ",
+            "text": "Skills \nTools \nCase studies \nTrends and reports ",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
         {
             "heading":"PERSONAL INTERESTS",
-            "text": "Languages \n Crafts and hobbies \n Cooking \n Health and fitness \n Driving rules \n etc. ",
+            "text": "Languages \nCrafts and hobbies \nCooking \nHealth and fitness \nDriving rules \netc. ",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
@@ -154,13 +154,13 @@
         },
         {
             "heading":"FEATURED APPS",
-            "text": "Duolingo \n TED \n Udemy \n Coursera \n QuizUp \n Quizlet \n Lumosity",
+            "text": "Duolingo \nTED \nUdemy \nCoursera \nQuizUp \nQuizlet \nLumosity",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
         },
         {
             "heading":"DUOLINGO",
-            "text": "Started in \n funding \n Android installs",
+            "text": "Started in \nfunding \nAndroid installs",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
         },
@@ -191,7 +191,7 @@
         },
         {
             "heading":"QUIZUP",
-            "text": "Started in \n funding \n Android installs",
+            "text": "Started in \nfunding \nAndroid installs",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
         },
@@ -222,7 +222,7 @@
         },
         {
             "heading":"LUMOSITY",
-            "text": "Started in \n funding \n Android installs",
+            "text": "Started in \nfunding \nAndroid installs",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
         },
@@ -253,7 +253,7 @@
         },
         {
             "heading":"UDEMY",
-            "text": "Started in \n funding \n Android installs",
+            "text": "Started in \nfunding \nAndroid installs",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
         },
@@ -294,7 +294,7 @@
         },
         {
             "heading":"COURSERA",
-            "text": "Started in \n funding \n Android installs",
+            "text": "Started in \nfunding \nAndroid installs",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
         },
@@ -325,7 +325,7 @@
         },
         {
             "heading":"TED",
-            "text": "Started in \n funding \n Android installs",
+            "text": "Started in \nfunding \nAndroid installs",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
         },
@@ -366,7 +366,7 @@
                 },
         {
             "heading":"QUIZLET",
-            "text": "Started in \n self-funded \n Android installs",
+            "text": "Started in \nself-funded \nAndroid installs",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
         },
@@ -434,7 +434,7 @@
         },
         {
             "heading":"NEW INTERACTIONS",
-            "text": "Mobile learning will move from copying old formats to mobile-native interactions.\n\n Beyond reading, videos, 4-choice questions and flashcards",
+            "text": "Mobile learning will move from copying old formats to mobile-native interactions.\n\nBeyond reading, videos, 4-choice questions and flashcards",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
@@ -451,13 +451,13 @@
         },
         {
             "heading":"LEARNERS",
-            "text": "Build your mobile learning habit. \n\n Great education is coming to mobile. Find yours.",
+            "text": "Build your mobile learning habit. \n\nGreat education is coming to mobile. Find yours.",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
         {
             "heading":"EDUCATORS",
-            "text": "Mobile is the biggest\n classroom on Earth\n\n Plan to teach\n your first mobile class\n in 2014 or 2015.",
+            "text": "Mobile is the biggest\nclassroom on Earth\n\nPlan to teach\nyour first mobile class\nin 2014 or 2015.",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
@@ -476,7 +476,7 @@
         {
             "imageUrl": "0-question.png",
             "backgroundColor": "#f3f3f3",
-            "text": "\n \n How do you like this course?",
+            "text": "\n\nHow do you like this course?",
             "answers": [
                 {
                     "text": "Awesome!",
