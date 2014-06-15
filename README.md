@@ -1,6 +1,4 @@
-# Maester courses
-
-Created at #SFB2B Startup Weekend on June 6-7, 2014. Public domain.
+# Verner courses
 
 ## Course creation instructions
 
@@ -12,8 +10,11 @@ Created at #SFB2B Startup Weekend on June 6-7, 2014. Public domain.
  * Course contents file is kept in f.ex. yura-course/course.json. Format:
    * **name**: Name of the course (should be the same as in courses.json).
    * **slides**: Array of course slides. Format of slide (all parameters optional):
-     * **text**: Main text or question.
-     * **imageUrl**: Relative url of the slide picture, ~500x700. Will be resized as needed to fill the screen.
+     * **heading**: Slide heading
+     * **text** or **body**: Main slide text or question.
+     * **imageUrl**: Relative url of background slide picture, ~500x700. Will be resized as needed to fill the screen.
+     * **topImageUrl**: Url of picture shown above heading/text. Will be resized to full width.
+     * **bottomImageUrl**: Url of picture shown below text.
      * **backgroundColor**: Color of the background, in usual CSS format (#abcdef)
      * **textColor**: Color of main text.
      * **answers**: Array of possible answers. Format:
@@ -31,10 +32,10 @@ Created at #SFB2B Startup Weekend on June 6-7, 2014. Public domain.
 {
     "name": "Yura's course",
     "slides": [
-        { "text": "Hello Yura!" },
+        { "heading": "Hello Yura!", "text": "This is our first slide" },
         { "text": "Welcome to our first course! Yo!" },
         { "text": "A background can be changed like this", "backgroundColor": "#3e313c", "textColor": "#ffffff" },
-        { "text": "Do you like it?", "answers": [
+        { "text": "Do you like it?", "topImageUrl": "0-question-small.png", "answers": [
             {"text": "Totally!", "hint": "Really?"}, 
             {"text": "Not really", "hint": "Wrong!!"}, 
             {"text": "You bet!", "correct": true, "hint": "Congratulations!"},
