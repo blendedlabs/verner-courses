@@ -158,7 +158,7 @@
             "textColor": "#fefefe"
         },
         {
-            "heading":"DUOLINGO",
+            "heading":"DUOLINGO\nLanguage learning",
             "text": "Started in 2011 \n38M$ funding \n10M+ Android installs",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
@@ -185,7 +185,7 @@
             "textColor": "#fefefe"
         },
         {
-            "heading":"TED",
+            "heading":"TED\nInspiring video talks",
             "text": "Started in 1984 \nNon-profit \n5M+ Android installs",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
@@ -212,7 +212,7 @@
             "textColor": "#fefefe"
         },
         {
-            "heading":"UDEMY",
+            "heading":"UDEMY\nSkills and hobbies",
             "text": "Started in 2010 \n 48M$ funding \n100K+ Android installs",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
@@ -239,7 +239,7 @@
             "textColor": "#fefefe"
         },
         {
-            "heading":"COURSERA",
+            "heading":"COURSERA\nAcademic courses",
             "text": "Started in \n 85M$ funding \n100K+ Android installs",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
@@ -266,7 +266,7 @@
             "textColor": "#fefefe"
         },
         {
-            "heading":"QUIZUP",
+            "heading":"QUIZUP\nAddictive quiz game",
             "text": "Started in 2010 \n27M$ funding \n5M+ Android installs",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
@@ -293,7 +293,7 @@
             "textColor": "#fefefe"
         },
         {
-            "heading":"QUIZLET",
+            "heading":"QUIZLET\nFlashcards learning",
             "text": "Started in 2007\nSelf-funded \n500K+ Android installs",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
@@ -320,7 +320,7 @@
             "textColor": "#fefefe"
         },
         {
-            "heading":"LUMOSITY",
+            "heading":"LUMOSITY\nBrain fitness",
             "text": "Started in 2005\n67M$ funding \n\n ~50M users across the web and iOS",
             "backgroundColor": "#55acee",
             "textColor": "#fefefe"
