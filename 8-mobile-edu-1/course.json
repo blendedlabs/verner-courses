@@ -6,7 +6,7 @@
             "backgroundColor": "#d9dfe2"
         },
         {
-            "heading":"5 QUESTIONS\nTO ANSWER",
+            "heading":"INTRO",
             "backgroundColor": "#49be34",
             "textColor": "#eeeeee"
         },
@@ -42,7 +42,7 @@
         },        
         {
             "imageUrl": "tt1-section1.png",
-            "backgroundColor": "#017eac"
+            "backgroundColor": "#2d4c7b"
         },
         {
             "heading":"AREAS OF LEARNING",
@@ -82,7 +82,7 @@
         },
         {
             "imageUrl": "tt1-section2.png",
-            "backgroundColor": "#017eac"
+            "backgroundColor": "#2d4c7b"
         },
         {
             "heading":"NUMBER OF DEVICES",
@@ -98,7 +98,7 @@
         },
         {
             "heading":"LEARNING CONTEXT",
-            "text": "Commute\n\nWaiting \n\nCouch \n\nBed \n\nIn the field",
+            "text": "Commute\n\nWaiting \n\nCouch and bed \n\nOutdoors",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
@@ -144,7 +144,7 @@
         },
         {
             "imageUrl": "tt1-section3.png",
-            "backgroundColor": "#017eac"
+            "backgroundColor": "#2d4c7b"
         },
         {
             "heading":"FEATURED APPS",
@@ -350,7 +350,7 @@
         },
         {
             "imageUrl": "tt1-section4.png",
-            "backgroundColor": "#017eac"
+            "backgroundColor": "#2d4c7b"
         },
         {
             "heading":"MOBILE-FIRST",
@@ -377,23 +377,19 @@
             "textColor": "#333333"
         },
         {
-            "imageUrl": "tt1-section5.png",
-            "backgroundColor": "#017eac"
-        },
-        {
-            "heading":"LEARNERS",
+            "heading":"IMPLICATIONS » LEARNERS",
             "text": "Build your mobile learning habit. \n\nGreat education is coming to mobile. Find yours.",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
         {
-            "heading":"EDUCATORS",
+            "heading":"IMPLICATIONS » EDUCATORS",
             "text": "Mobile is the biggest\nclassroom on Earth\n\nPlan to teach\nyour first mobile class\nin 2014 or 2015.",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
         {
-            "heading":"PUBLISHERS",
+            "heading":"IMPLICATIONS » PUBLISHERS",
             "text": "Get your content mobile-friendly and truly interactive.",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
