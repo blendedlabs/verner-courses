@@ -41,7 +41,7 @@
             "textColor": "#40677f"
         },        
         {
-            "imageUrl": "tt1-section1.png",
+            "topImageUrl": "tt1-section1.png",
             "backgroundColor": "#2d4c7b"
         },
         {
@@ -81,7 +81,7 @@
             "textColor": "#333333"
         },
         {
-            "imageUrl": "tt1-section2.png",
+            "topImageUrl": "tt1-section2.png",
             "backgroundColor": "#2d4c7b"
         },
         {
@@ -143,7 +143,7 @@
             ]
         },
         {
-            "imageUrl": "tt1-section3.png",
+            "topImageUrl": "tt1-section3.png",
             "backgroundColor": "#2d4c7b"
         },
         {
@@ -349,7 +349,7 @@
             "textColor": "#333333"
         },
         {
-            "imageUrl": "tt1-section4.png",
+            "topImageUrl": "tt1-section4.png",
             "backgroundColor": "#2d4c7b"
         },
         {
