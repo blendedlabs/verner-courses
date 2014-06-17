@@ -20,6 +20,7 @@
      * **answers**: Array of possible answers. Format:
        * **text**: Answer text.
        * **correct**: Is this answer correct (true or false, without quotes).
+       * **title**: Large colored text to show.
        * **hint**: Text to show to the user when they've chosen this answer.
      * **buttons**: Array of buttons. Format:
        * **text**: Button text.
