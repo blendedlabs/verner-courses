@@ -7,7 +7,7 @@
             {"text": "Totally!", "hint": "This is a fun question whose paradoxical, self-referential nature quickly reveals itself – A) seems to be fine until one realizes the C) option is also 25%."}, 
             {"text": "Not really", "hint": "Wrong!!"}, 
             {"text": "You bet!", "correct": true, "hint": "Congratulations! This is a fun question whose paradoxical, self-referential nature quickly reveals itself – A) seems to be fine until one realizes the C) option is also 25%."},
-            {"text": "What was the question again?"}
+            {"text": "What was the question again?", "title": "Didn't understand"}
         ]},
         { "text": "And here is\n how to do\n multiline \n \n Course update test" },
         { "text": "You can even use a picture with this text!", "imageUrl": "imagesample.jpg", "textColor": "#ffffff" },
