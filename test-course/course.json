@@ -4,9 +4,9 @@
         { "heading": "Heading", "text": "This is our first slide" },
         { "text": "A background can be changed like this", "backgroundColor": "#3e313c", "textColor": "#ffffff" },
         { "text": "Do you like it?", "answers": [
-            {"text": "Totally!", "hint": "Really?"}, 
+            {"text": "Totally!", "hint": "This is a fun question whose paradoxical, self-referential nature quickly reveals itself – A) seems to be fine until one realizes the C) option is also 25%."}, 
             {"text": "Not really", "hint": "Wrong!!"}, 
-            {"text": "You bet!", "correct": true, "hint": "Congratulations!"},
+            {"text": "You bet!", "correct": true, "hint": "Congratulations! This is a fun question whose paradoxical, self-referential nature quickly reveals itself – A) seems to be fine until one realizes the C) option is also 25%."},
             {"text": "What was the question again?"}
         ]},
         { "text": "And here is\n how to do\n multiline \n \n Course update test" },
