@@ -3,7 +3,7 @@
     "slides": [
         { "heading": "Heading", "text": "This is our first slide" },
         { "text": "A background can be changed like this", "backgroundColor": "#3e313c", "textColor": "#ffffff" },
-        { "text": "Do you like it?", "id": "1", "answers": [
+        { "text": "\nDo you like it?", "id": "1", "answers": [
             {"id": "1", "text": "Totally!", "hint": "This is a fun question whose paradoxical, self-referential nature quickly reveals itself – A) seems to be fine until one realizes the C) option is also 25%."}, 
             {"id": "2", "text": "Not really", "hint": "Wrong!!"}, 
             {"id": "3", "text": "You bet!", "correct": true, "hint": "Congratulations! This is a fun question whose paradoxical, self-referential nature quickly reveals itself – A) seems to be fine until one realizes the C) option is also 25%."},
