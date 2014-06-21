@@ -149,7 +149,7 @@
         {
             "id":"app-basis",
             "imageUrl": "questions.png",
-            "text": "Which app is mostly based on video??", "answers": [
+            "text": "Which education app is mostly based on video?", "answers": [
                     {"id":"12", "text": "QuizUp", "hint": "QuizUp is based on four-choice questions."}, 
                     {"id":"13", "text": "Codecademy", "hint": "Codecademy is based on interactive coding console."}, 
                     {"id":"14", "text": "Khan Academy", "correct": true, "hint": "Khan Academy has over 400 million views on Youtube."},
