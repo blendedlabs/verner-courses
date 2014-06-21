@@ -20,6 +20,17 @@
             "backgroundColor": "#f1f0f5"
         },
         {
+            "id":"top-android",
+            "imageUrl": "questions.png",
+            "text": "What is the top Android education app?", "answers": [
+                    {"id":"1", "text": "TED", "hint": "TED app is #1 on Windows, #5 on iOS and #11 on Android. \n\nRankings from June 2014."}, 
+                    {"id":"2", "text": "Bible for kids", "hint": "Bible for kids is #7 among Android education apps. \n\nRankings from June 2014."}, 
+                    {"id":"3", "text": "Lumosity", "hint": "Lumosity is #2 both on iOS and Android. \n\nRankings from June 2014."},
+                    {"id":"4", "text": "Duolingo", "correct": true, "hint": ""}
+                ],
+            "backgroundColor": "#d9dfe2"
+        },
+        {
             "topImageUrl": "cover2.png",
             "backgroundColor": "#51afd9"
         },
