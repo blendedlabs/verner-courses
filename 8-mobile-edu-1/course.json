@@ -35,7 +35,7 @@
             "imageUrl": "questions.png",
             "text": "Is there a learning app that you use several times a week?", "answers": [
                     {"id":"5", "correct":true, "text": "Yes", "hint": "This is great! Unfortunately, most people do not have a regular mobile learning habit."}, 
-                    {"id":"6", "correct":true, "text": "No", "hint": "Learning apps have a long way to go to become our daily habits."}, 
+                    {"id":"6", "correct":true, "text": "No", "hint": "Learning apps have a long way to go to become our daily habits."}
                 ],
             "backgroundColor": "#d9dfe2"
         },
