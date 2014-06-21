@@ -10,19 +10,20 @@
         "name": "TEACH BY TOUCH #2\nThe Anatomy of Mobile Learning",
         "author": "Yury Lifshits",
         "imageUrl": "8-mobile-edu-2/0-cover-small.png",
-        "courseUrl": "8-mobile-edu-2/course.json"
+        "courseUrl": "8-mobile-edu-2/course-cs.json"
     },
 
     {
         "name": "TEACH BY TOUCH #3\nInteraction Mechanics",
         "author": "Yury Lifshits",
         "imageUrl": "8-mobile-edu-3/0-cover-small.png",
-        "courseUrl": "8-mobile-edu-3/course.json"
+        "courseUrl": "8-mobile-edu-3/course-cs.json"
     },
 
     {
         "name": "26 Time Management Hacks I Wish I'd Known at 20",
         "author": "Etienne Garbugli, etc",
+        "published": false,
         "imageUrl": "4-time-mgmt-hacks/i-0.jpg",
         "courseUrl": "4-time-mgmt-hacks/course.json"
     },

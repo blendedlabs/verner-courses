@@ -16,6 +16,16 @@
             "backgroundColor": "#51afd9"
         },
         {
+            "imageUrl": "questions.png",
+            "text": "What is the top Android education app?", "answers": [
+                    {"text": "TED"}, 
+                    {"text": "Bible for kids"}, 
+                    {"text": "Lumosity"},
+                    {"text": "Duolingo", "correct": true}
+                ],
+            "backgroundColor": "#d9dfe2"
+        },
+        {
             "imageUrl": "challenge1.png",
             "backgroundColor": "#f1f0f5"
         },

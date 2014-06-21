@@ -1,0 +1,14 @@
+{
+    "name": "TEACH BY TOUCH #2",
+    "slides": [
+        {
+            "imageUrl": "tt2-cover.png",
+            "backgroundColor": "#d9dfe2"
+        },
+        {
+            "heading":"This course is coming soon!",
+            "backgroundColor": "#49be34",
+            "textColor": "#eeeeee"
+        }
+    ]
+}
