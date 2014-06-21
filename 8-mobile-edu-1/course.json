@@ -6,17 +6,23 @@
             "backgroundColor": "#d9dfe2"
         },
         {
-            "heading":"In this 5 minutes",
-            "text":"Why teaching on mobile is so hard?\n\nHow best education apps making it work?",
-            "backgroundColor": "#51afd9",
-            "textColor": "#333333"
+            "imageUrl": "2.png",
+            "backgroundColor": "#f1f0f5"
         },
         {
             "topImageUrl": "cover1.png",
             "backgroundColor": "#51afd9"
         },
         {
+            "imageUrl": "4.png",
+            "backgroundColor": "#f1f0f5"
+        },
+        {
             "imageUrl": "5.png",
+            "backgroundColor": "#f1f0f5"
+        },
+        {
+            "imageUrl": "6.png",
             "backgroundColor": "#f1f0f5"
         },
         {
@@ -45,24 +51,32 @@
             "backgroundColor": "#51afd9"
         },
         {
-            "imageUrl": "challenge1.png",
+            "imageUrl": "10.png",
             "backgroundColor": "#f1f0f5"
         },
         {
-            "imageUrl": "challenge2.png",
+            "imageUrl": "11.png",
             "backgroundColor": "#f1f0f5"
         },
         {
-            "imageUrl": "challenge3.png",
+            "imageUrl": "12.png",
+            "backgroundColor": "#f1f0f5"
+        },
+        {
+            "imageUrl": "13.png",
+            "backgroundColor": "#f1f0f5"
+        },
+        {
+            "imageUrl": "14.png",
             "backgroundColor": "#f1f0f5"
         },
         {
             "id":"challenge-choice",
             "imageUrl": "questions.png",
             "text": "What aspect is most important for you personally?", "answers": [
-                    {"id":"7", "text": "Useful", "correct": true, "hint": "Perhaps, this is the hardest challenge. \n\nCan we really teach every skill in 5-minute units?"}, 
-                    {"id":"8", "text": "Short", "correct": true, "hint": "Any course can be cut in 5-minute units. \n\nBut it will definitely take some work."}, 
-                    {"id":"9", "text": "Interactive", "correct": true, "hint": "Interactivity is the biggest opportunity for mobile learning."},
+                    {"id":"7", "text": "Effective", "correct": true, "hint": "Perhaps, this is the hardest challenge. \n\nCan we really teach every skill in 5-minute units?"}, 
+                    {"id":"8", "text": "Short", "correct": true, "hint": "Any content can be cut in 5-minute units. \n\nBut it will definitely take some work."}, 
+                    {"id":"9", "text": "Interactive", "correct": true, "hint": "Multiple-choice questions are not enough. New interactions are coming to mobile learning very soon."},
                     {"id":"10", "text": "Emotional", "correct": true, "hint": "Do you have an artist or comedian in your teaching team?"},
                     {"id":"11", "text": "All-covering", "correct": true, "hint": "To get millions of learners, we need one app and many course creators."}
                 ],
@@ -73,35 +87,47 @@
             "backgroundColor": "#51afd9"
         },
         {
-            "imageUrl": "case1.png",
-            "backgroundColor": "#f1f0f5"
+            "topImageUrl": "17.png",
+            "textColor": "#f1f0f5",
         },
         {
-            "imageUrl": "case2.png",
-            "backgroundColor": "#f1f0f5"
+            "topImageUrl": "20.png",
+            "textColor": "#f1f0f5",
         },
         {
-            "imageUrl": "case3.png",
-            "backgroundColor": "#f1f0f5"
+            "topImageUrl": "23.png",
+            "textColor": "#f1f0f5",
         },
         {
-            "imageUrl": "case4.png",
-            "backgroundColor": "#f1f0f5"
+            "topImageUrl": "27.png",
+            "textColor": "#f1f0f5",
+        },
+        {
+            "topImageUrl": "30.png",
+            "textColor": "#f1f0f5",
+        },
+        {
+            "id":"app-basis",
+            "imageUrl": "questions.png",
+            "text": "Which app is mostly based on video??", "answers": [
+                    {"id":"12", "text": "QuizUp", "hint": "QuizUp is based on 4-choice questions."}, 
+                    {"id":"13", "text": "Codecademy", "hint": "Codecademy is based on interactive coding console."}, 
+                    {"id":"14", "text": "Khan Academy", "correct": true, "hint": "Khan Academy has over 400 million views on Youtube."},
+                    {"id":"15", "text": "Duolingo", "hint": "Doulingo is based on translation questions."}
+                ],
+            "backgroundColor": "#d9dfe2"
         },
         {
             "topImageUrl": "cover4.png",
             "backgroundColor": "#51afd9"
         },
         {
-            "heading":"Learn more \nabout teaching on mobile",
-            "text": "In TEACH BY TOUCH series \n\n#2 How to plan a mobile course?\n\n#3 How to make mobile learning fun and almost addictive?",
-            "backgroundColor": "#f3f3f3",
-            "textColor": "#333333"
+            "topImageUrl": "36.png",
+            "textColor": "#f1f0f5",
         },
         {
-            "heading":"Create your own \nmobile course",
-            "text": "Get in touch with Yury to use our course-creating tools",
-            "textColor": "#fefefe",
+            "topImageUrl": "37.png",
+            "textColor": "#f1f0f5",
             "buttons": [
                 {
                     "text": "@yurylifshits",
