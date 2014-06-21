@@ -12,11 +12,11 @@
             "textColor": "#333333"
         },
         {
-            "imageUrl": "cover1.png",
+            "topImageUrl": "cover1.png",
             "backgroundColor": "#51afd9"
         },
         {
-            "topImageUrl": "challenge1.png",
+            "imageUrl": "challenge1.png",
             "backgroundColor": "#f1f0f5"
         },
         {
@@ -24,15 +24,15 @@
             "backgroundColor": "#51afd9"
         },
         {
-            "topImageUrl": "challenge1.png",
+            "imageUrl": "challenge1.png",
             "backgroundColor": "#f1f0f5"
         },
         {
-            "topImageUrl": "challenge2.png",
+            "imageUrl": "challenge2.png",
             "backgroundColor": "#f1f0f5"
         },
         {
-            "topImageUrl": "challenge3.png",
+            "imageUrl": "challenge3.png",
             "backgroundColor": "#f1f0f5"
         },
         {
@@ -40,19 +40,19 @@
             "backgroundColor": "#51afd9"
         },
         {
-            "topImageUrl": "case1.png",
+            "imageUrl": "case1.png",
             "backgroundColor": "#f1f0f5"
         },
         {
-            "topImageUrl": "case2.png",
+            "imageUrl": "case2.png",
             "backgroundColor": "#f1f0f5"
         },
         {
-            "topImageUrl": "case3.png",
+            "imageUrl": "case3.png",
             "backgroundColor": "#f1f0f5"
         },
         {
-            "topImageUrl": "case4.png",
+            "imageUrl": "case4.png",
             "backgroundColor": "#f1f0f5"
         },
         {
