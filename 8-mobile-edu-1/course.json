@@ -6,7 +6,7 @@
             "backgroundColor": "#d9dfe2"
         },
         {
-            "topImageUrl": "02.png",
+            "imageUrl": "02.png",
             "backgroundColor": "#f1f0f5"
         },
         {
@@ -87,36 +87,36 @@
             "backgroundColor": "#51afd9"
         },
         {
-            "topImageUrl": "17.png",
-            "textColor": "#f1f0f5"
+            "imageUrl": "17.png",
+            "backgroundColor": "#f1f0f5"
         },
         {
-            "topImageUrl": "18.png",
-            "textColor": "#f1f0f5"
+            "imageUrl": "18.png",
+            "backgroundColor": "#f1f0f5"
         },
         {
-            "topImageUrl": "19.png",
-            "textColor": "#f1f0f5"
+            "imageUrl": "19.png",
+            "backgroundColor": "#f1f0f5"
         },
         {
-            "topImageUrl": "20.png",
-            "textColor": "#f1f0f5"
+            "imageUrl": "20.png",
+            "backgroundColor": "#f1f0f5"
         },
         {
-            "topImageUrl": "21.png",
-            "textColor": "#f1f0f5"
+            "imageUrl": "21.png",
+            "backgroundColor": "#f1f0f5"
         },
         {
-            "topImageUrl": "23.png",
-            "textColor": "#f1f0f5"
+            "imageUrl": "23.png",
+            "backgroundColor": "#f1f0f5"
         },
         {
-            "topImageUrl": "27.png",
-            "textColor": "#f1f0f5"
+            "imageUrl": "27.png",
+            "backgroundColor": "#f1f0f5"
         },
         {
-            "topImageUrl": "30.png",
-            "textColor": "#f1f0f5"
+            "imageUrl": "30.png",
+            "backgroundColor": "#f1f0f5"
         },
         {
             "id":"app-basis",
@@ -134,12 +134,12 @@
             "backgroundColor": "#51afd9"
         },
         {
-            "topImageUrl": "36.png",
-            "textColor": "#f1f0f5"
+            "imageUrl": "36.png",
+            "backgroundColor": "#f1f0f5"
         },
         {
             "topImageUrl": "37.png",
-            "textColor": "#f1f0f5",
+            "backgroundColor": "#f1f0f5",
             "buttons": [
                 {
                     "text": "@yurylifshits",
