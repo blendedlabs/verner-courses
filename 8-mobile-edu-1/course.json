@@ -8,11 +8,11 @@
         {
             "heading":"In this 5 minutes",
             "text":"Why teaching on mobile is so hard?\n\nHow best education apps making it work?",
-            "backgroundColor": "#49be34",
-            "textColor": "#eeeeee"
+            "backgroundColor": "#51afd9",
+            "textColor": "#333333"
         },
         {
-            "topImageUrl": "cover1.png",
+            "imageUrl": "cover1.png",
             "backgroundColor": "#51afd9"
         },
         {
