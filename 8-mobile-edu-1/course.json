@@ -6,7 +6,7 @@
             "backgroundColor": "#d9dfe2"
         },
         {
-            "imageUrl": "2.png",
+            "topImageUrl": "2.png",
             "backgroundColor": "#f1f0f5"
         },
         {
@@ -122,7 +122,7 @@
             "id":"app-basis",
             "imageUrl": "questions.png",
             "text": "Which app is mostly based on video??", "answers": [
-                    {"id":"12", "text": "QuizUp", "hint": "QuizUp is based on 4-choice questions."}, 
+                    {"id":"12", "text": "QuizUp", "hint": "QuizUp is based on four-choice questions."}, 
                     {"id":"13", "text": "Codecademy", "hint": "Codecademy is based on interactive coding console."}, 
                     {"id":"14", "text": "Khan Academy", "correct": true, "hint": "Khan Academy has over 400 million views on Youtube."},
                     {"id":"15", "text": "Duolingo", "hint": "Doulingo is based on translation questions."}
