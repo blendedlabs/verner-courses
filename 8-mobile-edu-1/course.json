@@ -277,7 +277,7 @@
             ]
         },
         {
-            "imageUrl": "0-completed.png",
+            "topImageUrl": "0-completed.png",
             "backgroundColor": "#e9e9e8",
             "buttons": [
                 {
