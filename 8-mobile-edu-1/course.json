@@ -6,151 +6,54 @@
             "backgroundColor": "#d9dfe2"
         },
         {
-            "heading":"INTRO",
+            "heading":"In this 5 minutes",
+            "text":"Why teaching on mobile is so hard?\n\nHow best education apps making it work?",
             "backgroundColor": "#49be34",
             "textColor": "#eeeeee"
         },
         {
-            "heading":"NEEDS",
-            "text": "What things do people want to learn on mobile?",
-            "backgroundColor": "#d6fcff",
-            "textColor": "#40677f"
+            "topImageUrl": "cover1.png",
+            "backgroundColor": "#51afd9",
         },
         {
-            "heading":"SCALE",
-            "text": "How big is mobile learning? \n\nHow big can it become?",
-            "backgroundColor": "#d6fcff",
-            "textColor": "#40677f"
+            "topImageUrl": "challenge1.png",
+            "backgroundColor": "#f1f0f5",
         },
         {
-            "heading":"CASE STUDIES",
-            "text": "What are the key mobile learning apps? \n\nWhat can we learn from them?",
-            "backgroundColor": "#d6fcff",
-            "textColor": "#40677f"
+            "topImageUrl": "cover2.png",
+            "backgroundColor": "#51afd9",
         },
         {
-            "heading":"PREDICTIONS",
-            "text": "What to expect in the next 2-3 years?",
-            "backgroundColor": "#d6fcff",
-            "textColor": "#40677f"
+            "topImageUrl": "challenge1.png",
+            "backgroundColor": "#f1f0f5",
         },
         {
-            "heading":"IMPLICATIONS",
-            "text": "What are the implications for learners and educators?",
-            "backgroundColor": "#d6fcff",
-            "textColor": "#40677f"
-        },        
-        {
-            "imageUrl": "tt1-section1.png",
-            "backgroundColor": "#2d4c7b"
+            "topImageUrl": "challenge2.png",
+            "backgroundColor": "#f1f0f5",
         },
         {
-            "heading":"AREAS OF LEARNING",
-            "text": "Pre-school \n\nK12 (kindergarden to high school) \n\nHigher education \n\nProfessional development \n\nPersonal interests",
-            "backgroundColor": "#f3f3f3",
-            "textColor": "#333333"
+            "topImageUrl": "challenge3.png",
+            "backgroundColor": "#f1f0f5",
         },
         {
-            "heading":"PRE-SCHOOL",
-            "text": "Drawing \nLiteracy \nArithmetics \nCartoons \nGames ",
-            "backgroundColor": "#f3f3f3",
-            "textColor": "#333333"
+            "topImageUrl": "cover3.png",
+            "backgroundColor": "#51afd9",
         },
         {
-            "heading":"K12",
-            "text": "Math \nLiterature \nHistory \netc.",
-            "backgroundColor": "#f3f3f3",
-            "textColor": "#333333"
+            "topImageUrl": "case1.png",
+            "backgroundColor": "#f1f0f5",
         },
         {
-            "heading":"HIGHER EDUCATION",
-            "text": "Technology\nScience \nHumanities \nArt \nLaw \nMedicine \nBusiness \netc.",
-            "backgroundColor": "#f3f3f3",
-            "textColor": "#333333"
+            "topImageUrl": "case2.png",
+            "backgroundColor": "#f1f0f5",
         },
         {
-            "heading":"PROFESSIONAL DEVELOPMENT",
-            "text": "Skills \nTools \nCase studies \nTrends and reports ",
-            "backgroundColor": "#f3f3f3",
-            "textColor": "#333333"
+            "topImageUrl": "case3.png",
+            "backgroundColor": "#f1f0f5",
         },
         {
-            "heading":"PERSONAL INTERESTS",
-            "text": "Languages \nCrafts and hobbies \nCooking \nHealth and fitness \nDriving rules \netc. ",
-            "backgroundColor": "#f3f3f3",
-            "textColor": "#333333"
-        },
-        {
-            "imageUrl": "tt1-section2.png",
-            "backgroundColor": "#2d4c7b"
-        },
-        {
-            "heading":"NUMBER OF DEVICES",
-            "text": "1.5B+ smartphones\n\n200M+ tablets",
-            "backgroundColor": "#f3f3f3",
-            "textColor": "#333333"
-        },
-        {
-            "heading":"TIME SPENT",
-            "text": "60-80 minutes per day \n\nMobile time > Online time",
-            "backgroundColor": "#f3f3f3",
-            "textColor": "#333333"
-        },
-        {
-            "heading":"LEARNING CONTEXT",
-            "text": "Commute\n\nWaiting \n\nCouch and bed \n\nOutdoors",
-            "backgroundColor": "#f3f3f3",
-            "textColor": "#333333"
-        },
-        {
-            "heading":"INSTALL NUMBERS\nON ANDROID",
-            "text": "Flipboard 100M+ \nKindle 50M+ \nWikipedia 10M+ \nDuolingo 10M+ \n2048 Game 10M+ \nTED 5M+ \nQuizUp 5M+",
-            "backgroundColor": "#f3f3f3",
-            "textColor": "#333333"
-        },
-        {
-            "heading":"DAILY USE\nIS CRITICAL",
-            "text": "Most of the top apps are build around everyday habits",
-            "backgroundColor": "#f3f3f3",
-            "textColor": "#333333"
-        },
-        {
-            "heading":"APPS WIN\nOVER THE WEB",
-            "text": "App time is ~90%\n\nMobile web is only ~10%",
-            "backgroundColor": "#f3f3f3",
-            "textColor": "#333333"
-        },
-        {
-            "heading":"PROJECTIONS\nFOR 2017",
-            "text": "~ 2.5B smartphones \n\n~ 700M tablets",
-            "backgroundColor": "#f3f3f3",
-            "textColor": "#333333"
-        },
-        {
-            "backgroundColor": "#f5f5f5",
-            "text": "\n\nDo you believe that people will spend more time learning on mobile/tablet than on laptop/desktop?",
-            "answers": [
-                {
-                    "text": "More mobile learning",
-                    "correct": true,
-                    "hint": "We think this too"
-                },
-                {
-                    "text": "More desktop/laptop learning",
-                    "correct": true,
-                    "hint": "Interesting, what's your argument?"
-                }
-            ]
-        },
-        {
-            "imageUrl": "tt1-section3.png",
-            "backgroundColor": "#2d4c7b"
-        },
-        {
-            "heading":"FEATURED APPS",
-            "text": "Duolingo \nTED \nUdemy \nCoursera \nQuizUp \nQuizlet \nLumosity",
-            "backgroundColor": "#f3f3f3",
-            "textColor": "#333333"
+            "topImageUrl": "case4.png",
+            "backgroundColor": "#f1f0f5",
         },
         {
             "heading":"DUOLINGO\nLanguage learning",
@@ -349,48 +252,12 @@
             "textColor": "#333333"
         },
         {
-            "imageUrl": "tt1-section4.png",
-            "backgroundColor": "#2d4c7b"
+            "topImageUrl": "cover4.png",
+            "backgroundColor": "#51afd9",
         },
         {
-            "heading":"MOBILE-FIRST",
-            "text": "Starting from 2016 the significant share of new educational content will be created for mobile first",
-            "backgroundColor": "#f3f3f3",
-            "textColor": "#333333"
-        },
-        {
-            "heading":"LEARNING HABIT",
-            "text": "100M+ people will have a daily habit of learning new things on mobile for 10 min/day",
-            "backgroundColor": "#f3f3f3",
-            "textColor": "#333333"
-        },
-        {
-            "heading":"NEW INTERACTIONS",
-            "text": "Mobile learning will move from copying old formats to mobile-native interactions.\n\nBeyond reading, videos, 4-choice questions and flashcards",
-            "backgroundColor": "#f3f3f3",
-            "textColor": "#333333"
-        },
-        {
-            "heading":"NEW SUPERSTARS",
-            "text": "There will be a teacher with 10M mobile students",
-            "backgroundColor": "#f3f3f3",
-            "textColor": "#333333"
-        },
-        {
-            "heading":"IMPLICATIONS » LEARNERS",
-            "text": "Build your mobile learning habit. \n\nGreat education is coming to mobile. Find yours.",
-            "backgroundColor": "#f3f3f3",
-            "textColor": "#333333"
-        },
-        {
-            "heading":"IMPLICATIONS » EDUCATORS",
-            "text": "Mobile is the biggest\nclassroom on Earth\n\nPlan to teach\nyour first mobile class\nin 2014 or 2015.",
-            "backgroundColor": "#f3f3f3",
-            "textColor": "#333333"
-        },
-        {
-            "heading":"IMPLICATIONS » PUBLISHERS",
-            "text": "Get your content mobile-friendly and truly interactive.",
+            "heading":"NEXT COURSES",
+            "text": "#2 and #3",
             "backgroundColor": "#f3f3f3",
             "textColor": "#333333"
         },
@@ -398,38 +265,23 @@
             "heading":"CREATE YOUR OWN MOBILE COURSE",
             "text": "Join Verner's early author program",
             "backgroundColor": "#55acee",
-            "textColor": "#fefefe"
-        },
-        {
-            "imageUrl": "0-question.png",
-            "backgroundColor": "#f3f3f3",
-            "text": "\n\nHow do you like this course?",
-            "answers": [
+            "textColor": "#fefefe",
+            "buttons": [
                 {
-                    "text": "Awesome!",
-                    "correct": true,
-                    "hint": "We are so happy! Perhaps, take another course or tell a friend )"
+                    "text": "@yurylifshits",
+                    "action": "http://twitter.com/yurylifshits"
                 },
                 {
-                    "text": "Ok",
-                    "correct": true,
-                    "hint": "Ok is not good enough for us. How can we improve?"
-                },
-                {
-                    "text": "Can be better",
-                    "correct": true,
-                    "hint": "How can we improve?"
+                    "text": "yury@verner.io",
+                    "action": "mailto:yury@verner.io"
                 }
             ]
+
         },
         {
             "imageUrl": "0-completed.png",
             "backgroundColor": "#e9e9e8",
             "buttons": [
-                {
-                    "text": "Contact Yury",
-                    "action": "http://facebook.com/lifshits"
-                },
                 {
                     "text": "Back to the course list",
                     "action": "close"
