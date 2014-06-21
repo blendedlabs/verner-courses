@@ -4,8 +4,10 @@
 
  * List of courses is kept in courses.json. Format:
    * **name**: Name of the course
+   * **author**: Author of the course
    * **imageUrl**: Relative url of the course cover image, ~ 320x240px. Jpeg & Png supported.
    * **courseUrl**: Relative url of the course contents json (see below).
+   * **published**: false if the course is still draft.
 
  * Course contents file is kept in f.ex. yura-course/course.json. Format:
    * **name**: Name of the course (should be the same as in courses.json).
@@ -20,6 +22,7 @@
      * **answers**: Array of possible answers. Format:
        * **text**: Answer text.
        * **correct**: Is this answer correct (true or false, without quotes).
+       * **title**: Large colored text to show.
        * **hint**: Text to show to the user when they've chosen this answer.
      * **buttons**: Array of buttons. Format:
        * **text**: Button text.

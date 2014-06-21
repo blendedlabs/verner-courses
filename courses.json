@@ -25,5 +25,13 @@
         "author": "Etienne Garbugli, etc",
         "imageUrl": "4-time-mgmt-hacks/i-0.jpg",
         "courseUrl": "4-time-mgmt-hacks/course.json"
+    },
+
+    {
+        "name": "Testing Course",
+        "author": "Verner team",
+        "published": false,
+        "imageUrl": "test-course/cover.png",
+        "courseUrl": "test-course/course.json"
     }
 ]
