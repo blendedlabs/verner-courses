@@ -13,47 +13,47 @@
         },
         {
             "topImageUrl": "cover1.png",
-            "backgroundColor": "#51afd9",
+            "backgroundColor": "#51afd9"
         },
         {
             "topImageUrl": "challenge1.png",
-            "backgroundColor": "#f1f0f5",
+            "backgroundColor": "#f1f0f5"
         },
         {
             "topImageUrl": "cover2.png",
-            "backgroundColor": "#51afd9",
+            "backgroundColor": "#51afd9"
         },
         {
             "topImageUrl": "challenge1.png",
-            "backgroundColor": "#f1f0f5",
+            "backgroundColor": "#f1f0f5"
         },
         {
             "topImageUrl": "challenge2.png",
-            "backgroundColor": "#f1f0f5",
+            "backgroundColor": "#f1f0f5"
         },
         {
             "topImageUrl": "challenge3.png",
-            "backgroundColor": "#f1f0f5",
+            "backgroundColor": "#f1f0f5"
         },
         {
             "topImageUrl": "cover3.png",
-            "backgroundColor": "#51afd9",
+            "backgroundColor": "#51afd9"
         },
         {
             "topImageUrl": "case1.png",
-            "backgroundColor": "#f1f0f5",
+            "backgroundColor": "#f1f0f5"
         },
         {
             "topImageUrl": "case2.png",
-            "backgroundColor": "#f1f0f5",
+            "backgroundColor": "#f1f0f5"
         },
         {
             "topImageUrl": "case3.png",
-            "backgroundColor": "#f1f0f5",
+            "backgroundColor": "#f1f0f5"
         },
         {
             "topImageUrl": "case4.png",
-            "backgroundColor": "#f1f0f5",
+            "backgroundColor": "#f1f0f5"
         },
         {
             "heading":"DUOLINGO\nLanguage learning",
@@ -253,7 +253,7 @@
         },
         {
             "topImageUrl": "cover4.png",
-            "backgroundColor": "#51afd9",
+            "backgroundColor": "#51afd9"
         },
         {
             "heading":"NEXT COURSES",
@@ -264,8 +264,6 @@
         {
             "heading":"CREATE YOUR OWN MOBILE COURSE",
             "text": "Join Verner's early author program",
-            "backgroundColor": "#55acee",
-<<<<<<< HEAD
             "textColor": "#fefefe",
             "buttons": [
                 {
@@ -275,36 +273,8 @@
                 {
                     "text": "yury@verner.io",
                     "action": "mailto:yury@verner.io"
-=======
-            "textColor": "#fefefe"
-        },
-        {
-            "imageUrl": "0-question.png",
-            "backgroundColor": "#f3f3f3",
-            "text": "\nHow do you like this course?",
-            "id": "feedback",
-            "answers": [
-                {
-                    "id": "awesome",
-                    "text": "Awesome!",
-                    "correct": true,
-                    "hint": "We are so happy! Perhaps, take another course or tell a friend )"
-                },
-                {
-                    "id": "ok",
-                    "text": "Ok",
-                    "correct": true,
-                    "hint": "Ok is not good enough for us. How can we improve?"
-                },
-                {
-                    "id": "bad",
-                    "text": "Can be better",
-                    "correct": true,
-                    "hint": "How can we improve?"
->>>>>>> FETCH_HEAD
                 }
             ]
-
         },
         {
             "imageUrl": "0-completed.png",
