@@ -73,7 +73,7 @@
         {
             "id":"challenge-choice",
             "imageUrl": "questions.png",
-            "text": "What aspect is most important for you personally?", "answers": [
+            "text": "What aspect is most important for you?", "answers": [
                     {"id":"7", "text": "Effective", "correct": true, "hint": "Perhaps, this is the hardest challenge. \n\nCan we really teach every skill in 5-minute units?"}, 
                     {"id":"8", "text": "Short", "correct": true, "hint": "Any content can be cut in 5-minute units. \n\nBut it will definitely take some work."}, 
                     {"id":"9", "text": "Interactive", "correct": true, "hint": "Multiple-choice questions are not enough. New interactions are coming to mobile learning very soon."},
