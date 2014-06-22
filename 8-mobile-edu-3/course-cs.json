@@ -3,11 +3,11 @@
     "slides": [
         {
             "imageUrl": "tt3-cover.png",
-            "backgroundColor": "#f1f0f6"
+            "backgroundColor": "#f1f0f5"
         },
         {
             "imageUrl": "cooming-soon.png",
-            "backgroundColor": "#f1f0f6"
+            "backgroundColor": "#f1f0f5"
         }
     ]
 }
