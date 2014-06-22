@@ -3,12 +3,11 @@
     "slides": [
         {
             "imageUrl": "tt3-cover.png",
-            "backgroundColor": "#d9dfe2"
+            "backgroundColor": "#f1f0f6"
         },
         {
-            "heading":"This course is coming soon :)",
-            "backgroundColor": "#49be34",
-            "textColor": "#eeeeee"
+            "imageUrl": "cooming-soon.png",
+            "backgroundColor": "#f1f0f6"
         }
     ]
 }
